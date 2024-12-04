@@ -1,1086 +1,3254 @@
-Year,Region,Life expectancy
-1800,North America,42.47
-1800,Europe,77.04
-1800,Asia,63.92
-1800,Africa,55.92
-1800,Oceania,29.36
-1801,North America,29.36
-1801,Europe,23.49
-1801,Asia,71.97
-1801,Africa,56.07
-1801,Oceania,62.48
-1802,North America,21.24
-1802,Europe,78.19
-1802,Asia,69.95
-1802,Africa,32.74
-1802,Oceania,30.91
-1803,North America,31.0
-1803,Europe,38.25
-1803,Asia,51.49
-1803,Africa,45.92
-1803,Oceania,37.47
-1804,North America,56.71
-1804,Europe,28.37
-1804,Asia,37.53
-1804,Africa,41.98
-1804,Oceania,47.36
-1805,North America,67.11
-1805,Europe,31.98
-1805,Asia,50.85
-1805,Africa,55.54
-1805,Oceania,22.79
-1806,North America,56.45
-1806,Europe,30.23
-1806,Asia,23.9
-1806,Africa,76.93
-1806,Oceania,77.94
-1807,North America,68.5
-1807,Europe,38.28
-1807,Asia,25.86
-1807,Africa,61.05
-1807,Oceania,46.41
-1808,North America,27.32
-1808,Europe,49.71
-1808,Asia,22.06
-1808,Africa,74.56
-1808,Oceania,35.53
-1809,North America,59.75
-1809,Europe,38.7
-1809,Asia,51.2
-1809,Africa,52.8
-1809,Oceania,31.09
-1810,North America,78.18
-1810,Europe,66.51
-1810,Asia,76.37
-1810,Africa,73.69
-1810,Oceania,55.87
-1811,North America,75.31
-1811,Europe,25.31
-1811,Asia,31.76
-1811,Africa,22.71
-1811,Oceania,39.52
-1812,North America,43.32
-1812,Europe,36.28
-1812,Asia,69.72
-1812,Africa,41.41
-1812,Oceania,36.86
-1813,North America,52.56
-1813,Europe,28.46
-1813,Asia,68.13
-1813,Africa,24.47
-1813,Oceania,79.21
-1814,North America,66.33
-1814,Europe,31.92
-1814,Asia,20.33
-1814,Africa,68.93
-1814,Oceania,62.41
-1815,North America,63.74
-1815,Europe,66.28
-1815,Asia,24.44
-1815,Africa,41.51
-1815,Oceania,26.95
-1816,North America,71.79
-1816,Europe,57.4
-1816,Asia,39.85
-1816,Africa,23.81
-1816,Oceania,38.66
-1817,North America,39.51
-1817,Europe,63.78
-1817,Asia,58.25
-1817,Africa,73.23
-1817,Oceania,48.33
-1818,North America,27.18
-1818,Europe,62.79
-1818,Asia,65.65
-1818,Africa,53.68
-1818,Oceania,66.26
-1819,North America,49.63
-1819,Europe,51.36
-1819,Asia,45.65
-1819,Africa,21.53
-1819,Oceania,26.47
-1820,North America,21.89
-1820,Europe,58.18
-1820,Asia,38.86
-1820,Africa,50.51
-1820,Oceania,74.45
-1821,North America,34.96
-1821,Europe,44.62
-1821,Asia,65.33
-1821,Africa,33.73
-1821,Oceania,24.62
-1822,North America,37.39
-1822,Europe,29.67
-1822,Asia,75.78
-1822,Africa,68.49
-1822,Oceania,58.0
-1823,North America,72.29
-1823,Europe,68.22
-1823,Asia,31.19
-1823,Africa,73.55
-1823,Oceania,52.36
-1824,North America,68.45
-1824,Europe,73.77
-1824,Asia,39.08
-1824,Africa,26.6
-1824,Oceania,33.68
-1825,North America,45.63
-1825,Europe,69.08
-1825,Asia,71.64
-1825,Africa,20.42
-1825,Oceania,50.64
-1826,North America,45.04
-1826,Europe,33.33
-1826,Asia,27.19
-1826,Africa,40.26
-1826,Oceania,76.57
-1827,North America,39.39
-1827,Europe,51.13
-1827,Asia,62.18
-1827,Africa,41.82
-1827,Oceania,78.31
-1828,North America,77.75
-1828,Europe,35.11
-1828,Asia,49.83
-1828,Africa,38.05
-1828,Oceania,37.09
-1829,North America,22.21
-1829,Europe,56.57
-1829,Asia,50.16
-1829,Africa,23.09
-1829,Oceania,36.72
-1830,North America,74.5
-1830,Europe,34.37
-1830,Asia,28.69
-1830,Africa,49.37
-1830,Oceania,79.14
-1831,North America,34.52
-1831,Europe,60.33
-1831,Asia,65.7
-1831,Africa,34.26
-1831,Oceania,63.69
-1832,North America,42.07
-1832,Europe,57.94
-1832,Asia,58.01
-1832,Africa,52.15
-1832,Oceania,25.42
-1833,North America,70.12
-1833,Europe,39.25
-1833,Asia,31.19
-1833,Africa,22.45
-1833,Oceania,55.45
-1834,North America,60.65
-1834,Europe,21.0
-1834,Asia,50.73
-1834,Africa,33.59
-1834,Oceania,58.71
-1835,North America,30.46
-1835,Europe,61.46
-1835,Asia,43.2
-1835,Africa,76.2
-1835,Oceania,28.25
-1836,North America,40.46
-1836,Europe,26.81
-1836,Asia,75.48
-1836,Africa,72.64
-1836,Oceania,35.48
-1837,North America,59.6
-1837,Europe,69.03
-1837,Asia,53.31
-1837,Africa,51.78
-1837,Oceania,34.51
-1838,North America,25.59
-1838,Europe,73.83
-1838,Asia,74.03
-1838,Africa,57.99
-1838,Oceania,40.34
-1839,North America,40.95
-1839,Europe,63.56
-1839,Asia,73.83
-1839,Africa,73.23
-1839,Oceania,66.79
-1840,North America,58.52
-1840,Europe,25.05
-1840,Asia,29.7
-1840,Africa,73.91
-1840,Oceania,56.39
-1841,North America,20.55
-1841,Europe,26.09
-1841,Asia,59.81
-1841,Africa,20.3
-1841,Oceania,29.65
-1842,North America,52.92
-1842,Europe,61.51
-1842,Asia,59.12
-1842,Africa,33.46
-1842,Oceania,62.73
-1843,North America,34.23
-1843,Europe,39.52
-1843,Asia,64.79
-1843,Africa,58.98
-1843,Oceania,70.95
-1844,North America,59.46
-1844,Europe,54.1
-1844,Asia,25.62
-1844,Africa,42.06
-1844,Oceania,35.91
-1845,North America,34.64
-1845,Europe,78.38
-1845,Asia,43.59
-1845,Africa,73.52
-1845,Oceania,57.87
-1846,North America,67.69
-1846,Europe,50.16
-1846,Asia,54.61
-1846,Africa,49.55
-1846,Oceania,31.71
-1847,North America,63.35
-1847,Europe,36.85
-1847,Asia,21.46
-1847,Africa,58.73
-1847,Oceania,30.63
-1848,North America,76.43
-1848,Europe,77.24
-1848,Asia,74.89
-1848,Africa,42.21
-1848,Oceania,20.93
-1849,North America,75.7
-1849,Europe,45.69
-1849,Asia,78.0
-1849,Africa,77.82
-1849,Oceania,71.18
-1850,North America,37.67
-1850,Europe,43.11
-1850,Asia,71.07
-1850,Africa,39.02
-1850,Oceania,30.17
-1851,North America,53.41
-1851,Europe,76.17
-1851,Asia,61.76
-1851,Africa,54.2
-1851,Oceania,25.83
-1852,North America,56.9
-1852,Europe,79.4
-1852,Asia,28.41
-1852,Africa,51.1
-1852,Oceania,72.64
-1853,North America,64.45
-1853,Europe,61.82
-1853,Asia,62.15
-1853,Africa,41.57
-1853,Oceania,37.62
-1854,North America,68.56
-1854,Europe,68.61
-1854,Asia,72.02
-1854,Africa,74.79
-1854,Oceania,50.68
-1855,North America,50.09
-1855,Europe,67.9
-1855,Asia,59.0
-1855,Africa,62.12
-1855,Oceania,67.75
-1856,North America,73.4
-1856,Europe,40.28
-1856,Asia,42.53
-1856,Africa,25.64
-1856,Oceania,54.7
-1857,North America,22.16
-1857,Europe,47.94
-1857,Asia,52.56
-1857,Africa,37.19
-1857,Oceania,55.45
-1858,North America,21.83
-1858,Europe,22.24
-1858,Asia,69.36
-1858,Africa,41.61
-1858,Oceania,27.62
-1859,North America,51.33
-1859,Europe,66.2
-1859,Asia,32.95
-1859,Africa,57.37
-1859,Oceania,25.12
-1860,North America,23.1
-1860,Europe,51.88
-1860,Asia,52.44
-1860,Africa,58.25
-1860,Oceania,63.57
-1861,North America,78.55
-1861,Europe,50.98
-1861,Asia,39.38
-1861,Africa,67.71
-1861,Oceania,36.25
-1862,North America,46.34
-1862,Europe,24.71
-1862,Asia,21.52
-1862,Africa,77.76
-1862,Oceania,70.16
-1863,North America,61.76
-1863,Europe,44.54
-1863,Asia,30.4
-1863,Africa,29.39
-1863,Oceania,35.01
-1864,North America,52.95
-1864,Europe,62.88
-1864,Asia,59.61
-1864,Africa,36.8
-1864,Oceania,77.29
-1865,North America,64.27
-1865,Europe,53.26
-1865,Asia,56.7
-1865,Africa,45.18
-1865,Oceania,34.86
-1866,North America,41.36
-1866,Europe,65.47
-1866,Asia,20.86
-1866,Africa,26.96
-1866,Oceania,22.76
-1867,North America,22.44
-1867,Europe,71.33
-1867,Asia,62.22
-1867,Africa,48.45
-1867,Oceania,25.87
-1868,North America,49.5
-1868,Europe,48.41
-1868,Asia,30.39
-1868,Africa,46.03
-1868,Oceania,43.91
-1869,North America,56.95
-1869,Europe,58.11
-1869,Asia,22.72
-1869,Africa,42.48
-1869,Oceania,57.55
-1870,North America,50.19
-1870,Europe,71.39
-1870,Asia,59.52
-1870,Africa,29.78
-1870,Oceania,24.23
-1871,North America,58.55
-1871,Europe,21.59
-1871,Asia,55.15
-1871,Africa,76.41
-1871,Oceania,54.53
-1872,North America,43.29
-1872,Europe,58.6
-1872,Asia,47.5
-1872,Africa,52.74
-1872,Oceania,76.49
-1873,North America,43.17
-1873,Europe,77.67
-1873,Asia,74.32
-1873,Africa,31.75
-1873,Oceania,24.16
-1874,North America,26.05
-1874,Europe,21.09
-1874,Asia,25.67
-1874,Africa,60.98
-1874,Oceania,24.27
-1875,North America,39.14
-1875,Europe,70.69
-1875,Asia,21.4
-1875,Africa,68.87
-1875,Oceania,36.91
-1876,North America,27.09
-1876,Europe,61.8
-1876,Asia,57.74
-1876,Africa,72.65
-1876,Oceania,64.1
-1877,North America,68.21
-1877,Europe,36.92
-1877,Asia,30.65
-1877,Africa,65.04
-1877,Oceania,68.41
-1878,North America,79.43
-1878,Europe,44.76
-1878,Asia,42.32
-1878,Africa,66.58
-1878,Oceania,40.45
-1879,North America,75.85
-1879,Europe,71.5
-1879,Asia,45.74
-1879,Africa,65.05
-1879,Oceania,65.27
-1880,North America,26.19
-1880,Europe,74.15
-1880,Asia,50.32
-1880,Africa,69.59
-1880,Oceania,39.2
-1881,North America,73.73
-1881,Europe,43.35
-1881,Asia,20.65
-1881,Africa,74.32
-1881,Oceania,25.48
-1882,North America,39.16
-1882,Europe,77.0
-1882,Asia,77.04
-1882,Africa,54.41
-1882,Oceania,57.91
-1883,North America,46.91
-1883,Europe,37.59
-1883,Asia,39.72
-1883,Africa,60.35
-1883,Oceania,65.14
-1884,North America,67.49
-1884,Europe,67.38
-1884,Asia,25.47
-1884,Africa,49.67
-1884,Oceania,23.45
-1885,North America,52.97
-1885,Europe,46.49
-1885,Asia,73.26
-1885,Africa,41.05
-1885,Oceania,27.02
-1886,North America,28.58
-1886,Europe,65.69
-1886,Asia,57.09
-1886,Africa,26.07
-1886,Oceania,25.05
-1887,North America,62.06
-1887,Europe,24.37
-1887,Asia,69.31
-1887,Africa,62.37
-1887,Oceania,24.88
-1888,North America,25.09
-1888,Europe,79.2
-1888,Asia,42.46
-1888,Africa,42.24
-1888,Oceania,68.77
-1889,North America,76.83
-1889,Europe,79.16
-1889,Asia,65.2
-1889,Africa,42.58
-1889,Oceania,25.01
-1890,North America,66.63
-1890,Europe,53.5
-1890,Asia,45.45
-1890,Africa,74.38
-1890,Oceania,26.67
-1891,North America,49.56
-1891,Europe,20.68
-1891,Asia,48.12
-1891,Africa,23.38
-1891,Oceania,27.13
-1892,North America,27.05
-1892,Europe,58.95
-1892,Asia,64.76
-1892,Africa,55.0
-1892,Oceania,77.73
-1893,North America,42.49
-1893,Europe,37.14
-1893,Asia,72.12
-1893,Africa,33.42
-1893,Oceania,77.79
-1894,North America,20.73
-1894,Europe,78.19
-1894,Asia,22.59
-1894,Africa,73.47
-1894,Oceania,51.66
-1895,North America,79.58
-1895,Europe,24.43
-1895,Asia,53.23
-1895,Africa,78.16
-1895,Oceania,51.39
-1896,North America,57.76
-1896,Europe,61.74
-1896,Asia,47.27
-1896,Africa,57.65
-1896,Oceania,55.06
-1897,North America,74.07
-1897,Europe,22.73
-1897,Asia,36.86
-1897,Africa,77.02
-1897,Oceania,73.42
-1898,North America,47.34
-1898,Europe,57.21
-1898,Asia,36.64
-1898,Africa,31.29
-1898,Oceania,47.82
-1899,North America,41.2
-1899,Europe,55.02
-1899,Asia,24.66
-1899,Africa,78.46
-1899,Oceania,79.17
-1900,North America,61.89
-1900,Europe,52.17
-1900,Asia,38.57
-1900,Africa,68.83
-1900,Oceania,61.08
-1901,North America,29.76
-1901,Europe,74.66
-1901,Asia,69.35
-1901,Africa,76.99
-1901,Oceania,63.54
-1902,North America,56.8
-1902,Europe,45.09
-1902,Asia,75.96
-1902,Africa,71.96
-1902,Oceania,22.71
-1903,North America,21.58
-1903,Europe,42.59
-1903,Asia,68.63
-1903,Africa,79.24
-1903,Oceania,29.03
-1904,North America,55.65
-1904,Europe,42.85
-1904,Asia,78.19
-1904,Africa,70.53
-1904,Oceania,70.3
-1905,North America,48.12
-1905,Europe,44.89
-1905,Asia,36.4
-1905,Africa,23.38
-1905,Oceania,71.88
-1906,North America,68.77
-1906,Europe,79.98
-1906,Asia,79.8
-1906,Africa,53.33
-1906,Oceania,66.14
-1907,North America,76.69
-1907,Europe,70.98
-1907,Asia,34.84
-1907,Africa,47.03
-1907,Oceania,27.75
-1908,North America,77.24
-1908,Europe,56.37
-1908,Asia,33.72
-1908,Africa,60.3
-1908,Oceania,57.09
-1909,North America,41.49
-1909,Europe,26.81
-1909,Asia,60.29
-1909,Africa,51.22
-1909,Oceania,66.34
-1910,North America,51.21
-1910,Europe,71.13
-1910,Asia,53.11
-1910,Africa,53.66
-1910,Oceania,72.6
-1911,North America,44.21
-1911,Europe,28.04
-1911,Asia,21.73
-1911,Africa,65.31
-1911,Oceania,57.22
-1912,North America,62.24
-1912,Europe,32.78
-1912,Asia,28.18
-1912,Africa,20.87
-1912,Oceania,41.04
-1913,North America,55.4
-1913,Europe,43.53
-1913,Asia,46.25
-1913,Africa,74.25
-1913,Oceania,40.9
-1914,North America,50.84
-1914,Europe,67.02
-1914,Asia,43.79
-1914,Africa,57.33
-1914,Oceania,71.74
-1915,North America,76.97
-1915,Europe,28.82
-1915,Asia,75.6
-1915,Africa,49.53
-1915,Oceania,35.49
-1916,North America,47.55
-1916,Europe,78.8
-1916,Asia,49.56
-1916,Africa,39.73
-1916,Oceania,58.0
-1917,North America,34.41
-1917,Europe,24.55
-1917,Asia,27.73
-1917,Africa,27.68
-1917,Oceania,29.11
-1918,North America,28.33
-1918,Europe,58.45
-1918,Asia,30.91
-1918,Africa,40.74
-1918,Oceania,73.81
-1919,North America,48.44
-1919,Europe,60.05
-1919,Asia,30.34
-1919,Africa,31.54
-1919,Oceania,22.45
-1920,North America,30.14
-1920,Europe,36.72
-1920,Asia,30.62
-1920,Africa,25.32
-1920,Oceania,27.24
-1921,North America,47.65
-1921,Europe,32.38
-1921,Asia,41.86
-1921,Africa,50.21
-1921,Oceania,61.42
-1922,North America,22.36
-1922,Europe,67.96
-1922,Asia,57.67
-1922,Africa,24.91
-1922,Oceania,72.41
-1923,North America,75.25
-1923,Europe,23.66
-1923,Asia,36.61
-1923,Africa,68.37
-1923,Oceania,64.9
-1924,North America,31.07
-1924,Europe,32.56
-1924,Asia,42.23
-1924,Africa,49.07
-1924,Oceania,57.1
-1925,North America,42.13
-1925,Europe,47.75
-1925,Asia,64.85
-1925,Africa,22.2
-1925,Oceania,35.15
-1926,North America,62.8
-1926,Europe,73.71
-1926,Asia,50.7
-1926,Africa,51.93
-1926,Oceania,26.43
-1927,North America,46.84
-1927,Europe,51.96
-1927,Asia,34.55
-1927,Africa,36.15
-1927,Oceania,42.64
-1928,North America,21.2
-1928,Europe,39.32
-1928,Asia,32.69
-1928,Africa,39.65
-1928,Oceania,27.19
-1929,North America,73.43
-1929,Europe,55.62
-1929,Asia,60.75
-1929,Africa,67.35
-1929,Oceania,49.91
-1930,North America,25.22
-1930,Europe,52.23
-1930,Asia,55.21
-1930,Africa,64.73
-1930,Oceania,45.9
-1931,North America,27.65
-1931,Europe,37.03
-1931,Asia,41.78
-1931,Africa,58.76
-1931,Oceania,54.25
-1932,North America,41.37
-1932,Europe,79.19
-1932,Asia,56.35
-1932,Africa,34.23
-1932,Oceania,26.11
-1933,North America,29.17
-1933,Europe,34.76
-1933,Asia,29.64
-1933,Africa,31.19
-1933,Oceania,37.11
-1934,North America,30.4
-1934,Europe,73.81
-1934,Asia,24.81
-1934,Africa,51.47
-1934,Oceania,44.62
-1935,North America,78.94
-1935,Europe,26.72
-1935,Asia,43.87
-1935,Africa,78.17
-1935,Oceania,71.93
-1936,North America,69.02
-1936,Europe,35.47
-1936,Asia,30.25
-1936,Africa,60.12
-1936,Oceania,75.76
-1937,North America,53.41
-1937,Europe,54.3
-1937,Asia,36.8
-1937,Africa,66.17
-1937,Oceania,31.22
-1938,North America,39.42
-1938,Europe,45.53
-1938,Asia,50.46
-1938,Africa,34.54
-1938,Oceania,26.89
-1939,North America,56.64
-1939,Europe,37.32
-1939,Asia,54.87
-1939,Africa,29.26
-1939,Oceania,48.87
-1940,North America,51.96
-1940,Europe,23.11
-1940,Asia,40.2
-1940,Africa,28.06
-1940,Oceania,23.8
-1941,North America,79.4
-1941,Europe,39.34
-1941,Asia,68.59
-1941,Africa,35.28
-1941,Oceania,60.89
-1942,North America,65.61
-1942,Europe,55.74
-1942,Asia,48.29
-1942,Africa,44.71
-1942,Oceania,40.93
-1943,North America,75.77
-1943,Europe,69.84
-1943,Asia,77.9
-1943,Africa,27.46
-1943,Oceania,63.85
-1944,North America,76.3
-1944,Europe,30.87
-1944,Asia,23.99
-1944,Africa,64.47
-1944,Oceania,54.47
-1945,North America,70.51
-1945,Europe,28.39
-1945,Asia,67.72
-1945,Africa,32.1
-1945,Oceania,29.82
-1946,North America,29.86
-1946,Europe,68.87
-1946,Asia,59.91
-1946,Africa,51.38
-1946,Oceania,41.53
-1947,North America,72.63
-1947,Europe,43.55
-1947,Asia,69.0
-1947,Africa,46.35
-1947,Oceania,42.62
-1948,North America,47.76
-1948,Europe,38.08
-1948,Asia,64.86
-1948,Africa,50.16
-1948,Oceania,33.93
-1949,North America,73.97
-1949,Europe,43.03
-1949,Asia,52.61
-1949,Africa,74.39
-1949,Oceania,57.45
-1950,North America,27.01
-1950,Europe,76.39
-1950,Asia,57.66
-1950,Africa,40.09
-1950,Oceania,28.36
-1951,North America,67.64
-1951,Europe,57.2
-1951,Asia,52.01
-1951,Africa,73.63
-1951,Oceania,67.32
-1952,North America,29.1
-1952,Europe,38.7
-1952,Asia,34.91
-1952,Africa,64.64
-1952,Oceania,22.01
-1953,North America,54.19
-1953,Europe,65.75
-1953,Asia,72.61
-1953,Africa,40.52
-1953,Oceania,69.28
-1954,North America,26.64
-1954,Europe,70.79
-1954,Asia,27.65
-1954,Africa,43.84
-1954,Oceania,67.84
-1955,North America,29.0
-1955,Europe,33.76
-1955,Asia,63.34
-1955,Africa,63.2
-1955,Oceania,58.47
-1956,North America,61.64
-1956,Europe,52.56
-1956,Asia,35.11
-1956,Africa,40.74
-1956,Oceania,30.9
-1957,North America,74.51
-1957,Europe,55.0
-1957,Asia,44.05
-1957,Africa,47.72
-1957,Oceania,76.84
-1958,North America,29.2
-1958,Europe,55.17
-1958,Asia,50.35
-1958,Africa,56.69
-1958,Oceania,21.09
-1959,North America,72.33
-1959,Europe,75.93
-1959,Asia,53.91
-1959,Africa,61.8
-1959,Oceania,75.35
-1960,North America,62.43
-1960,Europe,29.15
-1960,Asia,54.58
-1960,Africa,56.4
-1960,Oceania,45.45
-1961,North America,64.19
-1961,Europe,76.06
-1961,Asia,75.53
-1961,Africa,47.05
-1961,Oceania,26.79
-1962,North America,79.09
-1962,Europe,70.33
-1962,Asia,27.48
-1962,Africa,75.25
-1962,Oceania,72.19
-1963,North America,51.13
-1963,Europe,55.48
-1963,Asia,43.94
-1963,Africa,23.29
-1963,Oceania,40.11
-1964,North America,68.17
-1964,Europe,20.28
-1964,Asia,40.01
-1964,Africa,43.89
-1964,Oceania,52.24
-1965,North America,75.19
-1965,Europe,40.78
-1965,Asia,40.82
-1965,Africa,64.25
-1965,Oceania,47.13
-1966,North America,33.48
-1966,Europe,47.15
-1966,Asia,28.45
-1966,Africa,30.58
-1966,Oceania,49.9
-1967,North America,45.14
-1967,Europe,74.89
-1967,Asia,41.74
-1967,Africa,54.84
-1967,Oceania,57.94
-1968,North America,20.79
-1968,Europe,59.81
-1968,Asia,30.68
-1968,Africa,77.66
-1968,Oceania,28.92
-1969,North America,44.88
-1969,Europe,25.12
-1969,Asia,79.81
-1969,Africa,50.13
-1969,Oceania,55.72
-1970,North America,24.02
-1970,Europe,65.0
-1970,Asia,32.59
-1970,Africa,73.88
-1970,Oceania,32.31
-1971,North America,31.44
-1971,Europe,22.19
-1971,Asia,48.32
-1971,Africa,53.89
-1971,Oceania,23.94
-1972,North America,66.53
-1972,Europe,47.2
-1972,Asia,51.46
-1972,Africa,46.45
-1972,Oceania,44.05
-1973,North America,53.58
-1973,Europe,29.31
-1973,Asia,30.92
-1973,Africa,71.71
-1973,Oceania,76.77
-1974,North America,42.4
-1974,Europe,36.24
-1974,Asia,58.64
-1974,Africa,44.52
-1974,Oceania,21.52
-1975,North America,29.37
-1975,Europe,62.96
-1975,Asia,59.54
-1975,Africa,21.63
-1975,Oceania,33.32
-1976,North America,33.86
-1976,Europe,60.31
-1976,Asia,21.18
-1976,Africa,26.25
-1976,Oceania,67.99
-1977,North America,30.71
-1977,Europe,59.16
-1977,Asia,34.29
-1977,Africa,25.97
-1977,Oceania,34.59
-1978,North America,63.34
-1978,Europe,71.34
-1978,Asia,69.81
-1978,Africa,43.83
-1978,Oceania,60.09
-1979,North America,32.3
-1979,Europe,37.59
-1979,Asia,73.78
-1979,Africa,20.78
-1979,Oceania,25.13
-1980,North America,32.47
-1980,Europe,21.59
-1980,Asia,30.89
-1980,Africa,54.98
-1980,Oceania,45.29
-1981,North America,73.56
-1981,Europe,69.05
-1981,Asia,40.51
-1981,Africa,35.57
-1981,Oceania,42.78
-1982,North America,55.42
-1982,Europe,36.08
-1982,Asia,57.45
-1982,Africa,44.56
-1982,Oceania,53.12
-1983,North America,46.17
-1983,Europe,37.67
-1983,Asia,76.91
-1983,Africa,65.82
-1983,Oceania,28.41
-1984,North America,72.11
-1984,Europe,49.25
-1984,Asia,73.67
-1984,Africa,67.99
-1984,Oceania,45.51
-1985,North America,21.35
-1985,Europe,36.12
-1985,Asia,52.5
-1985,Africa,58.01
-1985,Oceania,35.47
-1986,North America,28.36
-1986,Europe,70.1
-1986,Asia,79.06
-1986,Africa,51.54
-1986,Oceania,30.3
-1987,North America,36.34
-1987,Europe,21.1
-1987,Asia,74.86
-1987,Africa,27.07
-1987,Oceania,54.59
-1988,North America,36.44
-1988,Europe,53.25
-1988,Asia,59.09
-1988,Africa,69.78
-1988,Oceania,32.39
-1989,North America,20.66
-1989,Europe,28.21
-1989,Asia,74.0
-1989,Africa,72.43
-1989,Oceania,55.84
-1990,North America,56.03
-1990,Europe,59.9
-1990,Asia,30.52
-1990,Africa,74.86
-1990,Oceania,45.13
-1991,North America,42.99
-1991,Europe,51.14
-1991,Asia,22.82
-1991,Africa,29.98
-1991,Oceania,64.28
-1992,North America,24.97
-1992,Europe,56.19
-1992,Asia,34.72
-1992,Africa,43.36
-1992,Oceania,37.32
-1993,North America,41.34
-1993,Europe,63.14
-1993,Asia,37.83
-1993,Africa,53.98
-1993,Oceania,48.56
-1994,North America,59.82
-1994,Europe,76.21
-1994,Asia,63.95
-1994,Africa,32.9
-1994,Oceania,21.87
-1995,North America,35.74
-1995,Europe,55.7
-1995,Asia,23.09
-1995,Africa,49.78
-1995,Oceania,55.81
-1996,North America,40.05
-1996,Europe,66.25
-1996,Asia,26.4
-1996,Africa,24.51
-1996,Oceania,63.69
-1997,North America,49.73
-1997,Europe,61.3
-1997,Asia,46.09
-1997,Africa,34.78
-1997,Oceania,69.15
-1998,North America,67.96
-1998,Europe,61.68
-1998,Asia,36.33
-1998,Africa,55.41
-1998,Oceania,41.66
-1999,North America,25.49
-1999,Europe,75.04
-1999,Asia,28.21
-1999,Africa,77.01
-1999,Oceania,46.76
-2000,North America,31.11
-2000,Europe,52.51
-2000,Asia,72.38
-2000,Africa,63.93
-2000,Oceania,68.39
-2001,North America,59.53
-2001,Europe,61.54
-2001,Asia,70.95
-2001,Africa,34.98
-2001,Oceania,49.37
-2002,North America,33.27
-2002,Europe,79.26
-2002,Asia,76.64
-2002,Africa,22.37
-2002,Oceania,62.33
-2003,North America,75.51
-2003,Europe,30.83
-2003,Asia,54.08
-2003,Africa,74.93
-2003,Oceania,22.04
-2004,North America,61.85
-2004,Europe,37.84
-2004,Asia,75.46
-2004,Africa,78.26
-2004,Oceania,76.66
-2005,North America,48.45
-2005,Europe,71.72
-2005,Asia,70.67
-2005,Africa,39.15
-2005,Oceania,69.73
-2006,North America,22.22
-2006,Europe,55.78
-2006,Asia,33.8
-2006,Africa,27.23
-2006,Oceania,24.62
-2007,North America,61.78
-2007,Europe,40.39
-2007,Asia,63.49
-2007,Africa,23.92
-2007,Oceania,38.92
-2008,North America,52.37
-2008,Europe,67.44
-2008,Asia,39.13
-2008,Africa,57.55
-2008,Oceania,73.16
-2009,North America,56.95
-2009,Europe,33.98
-2009,Asia,21.46
-2009,Africa,72.21
-2009,Oceania,21.28
-2010,North America,72.48
-2010,Europe,51.74
-2010,Asia,76.34
-2010,Africa,67.93
-2010,Oceania,79.88
-2011,North America,41.04
-2011,Europe,66.03
-2011,Asia,44.12
-2011,Africa,48.79
-2011,Oceania,57.65
-2012,North America,72.42
-2012,Europe,79.05
-2012,Asia,66.1
-2012,Africa,45.07
-2012,Oceania,45.28
-2013,North America,64.25
-2013,Europe,34.33
-2013,Asia,26.63
-2013,Africa,41.28
-2013,Oceania,37.23
-2014,North America,37.78
-2014,Europe,34.02
-2014,Asia,22.53
-2014,Africa,21.07
-2014,Oceania,79.26
-2015,North America,45.67
-2015,Europe,43.06
-2015,Asia,60.78
-2015,Africa,33.1
-2015,Oceania,77.0
-2016,North America,67.18
-2016,Europe,25.36
-2016,Asia,45.05
-2016,Africa,72.75
-2016,Oceania,76.68
+Entity,Year,Life expectancy
+Australia,1802,34.049999
+Australia,1803,34.049999
+Australia,1804,34.049999
+Australia,1805,34.049999
+Australia,1806,34.049999
+Australia,1807,34.049999
+Australia,1808,34.049999
+Australia,1809,34.049999
+Australia,1810,34.049999
+Australia,1811,34.049999
+Australia,1812,34.049999
+Australia,1813,34.049999
+Australia,1814,34.049999
+Australia,1815,34.049999
+Australia,1816,34.049999
+Australia,1817,34.049999
+Australia,1818,34.049999
+Australia,1819,34.049999
+Australia,1820,34.049999
+Australia,1821,34.049999
+Australia,1822,34.049999
+Australia,1823,34.049999
+Australia,1824,34.049999
+Australia,1825,34.049999
+Australia,1826,34.049999
+Australia,1827,34.049999
+Australia,1828,34.049999
+Australia,1829,34.049999
+Australia,1830,34.049999
+Australia,1831,34.049999
+Australia,1832,34.049999
+Australia,1833,34.049999
+Australia,1834,34.049999
+Australia,1835,34.049999
+Australia,1836,34.049999
+Australia,1837,34.049999
+Australia,1838,34.049999
+Australia,1839,34.049999
+Australia,1840,34.049999
+Australia,1841,34.049999
+Australia,1842,34.049999
+Australia,1843,34.049999
+Australia,1844,34.049999
+Australia,1845,34.049999
+Australia,1846,34.049999
+Australia,1847,34.049999
+Australia,1848,34.049999
+Australia,1849,34.049999
+Australia,1850,34.049999
+Australia,1851,34.049999
+Australia,1852,34.049999
+Australia,1853,34.049999
+Australia,1854,34.049999
+Australia,1855,34.049999
+Australia,1856,34.049999
+Australia,1857,34.049999
+Australia,1858,34.049999
+Australia,1859,34.049999
+Australia,1860,34.049999
+Australia,1861,34.049999
+Australia,1862,34.049999
+Australia,1863,34.049999
+Australia,1864,34.049999
+Australia,1865,34.049999
+Australia,1866,34.049999
+Australia,1867,34.049999
+Australia,1868,34.049999
+Australia,1869,34.049999
+Australia,1870,34.049999
+Australia,1871,34.579216
+Australia,1872,35.108433
+Australia,1873,35.637646
+Australia,1874,36.166862
+Australia,1875,36.696079
+Australia,1876,37.225296
+Australia,1877,37.754509
+Australia,1878,38.283726
+Australia,1879,38.812943
+Australia,1880,39.342155
+Australia,1881,39.871372
+Australia,1882,40.400589
+Australia,1883,40.929806
+Australia,1884,41.459019
+Australia,1885,41.988235
+Australia,1886,42.517452
+Australia,1887,43.046665
+Australia,1888,43.575882
+Australia,1889,44.105099
+Australia,1890,44.634315
+Australia,1891,45.163528
+Australia,1892,45.692745
+Australia,1893,46.221962
+Australia,1894,46.751175
+Australia,1895,47.280392
+Australia,1896,47.809608
+Australia,1897,48.338825
+Australia,1898,48.868038
+Australia,1899,49.397255
+Australia,1900,49.926472
+Australia,1901,50.455685
+Australia,1902,50.984901
+Australia,1903,51.514118
+Australia,1904,52.043335
+Australia,1905,52.572548
+Australia,1906,53.101765
+Australia,1907,53.630981
+Australia,1908,54.160194
+Australia,1909,54.689411
+Australia,1910,55.218628
+Australia,1911,55.747845
+Australia,1912,56.277058
+Australia,1913,56.806274
+Australia,1914,57.335491
+Australia,1915,57.864704
+Australia,1916,58.393921
+Australia,1917,58.923138
+Australia,1918,54.802391
+Australia,1919,59.981567
+Australia,1920,60.510784
+Australia,1921,61.040001
+Australia,1922,62.889999
+Australia,1923,61.73
+Australia,1924,62.529999
+Australia,1925,63.220001
+Australia,1926,62.939999
+Australia,1927,62.91
+Australia,1928,62.959999
+Australia,1929,63.150002
+Australia,1930,64.959999
+Australia,1931,65.389999
+Australia,1932,65.690002
+Australia,1933,65.519997
+Australia,1934,64.879997
+Australia,1935,65.150002
+Australia,1936,65.269997
+Australia,1937,65.830002
+Australia,1938,65.870003
+Australia,1939,65.82
+Australia,1940,66.260002
+Australia,1941,66.139999
+Australia,1942,65.879997
+Australia,1943,66.400002
+Australia,1944,68.029999
+Australia,1945,68.459999
+Australia,1946,67.980003
+Australia,1947,68.589996
+Australia,1948,68.510002
+Australia,1949,69.129997
+Australia,1950,69.019997
+Australia,1951,68.720001
+Australia,1952,69.120003
+Australia,1953,69.699997
+Australia,1954,69.849998
+Australia,1955,70.169998
+Australia,1956,70.050003
+Australia,1957,70.330002
+Australia,1958,70.879997
+Australia,1959,70.449997
+Australia,1960,70.889999
+Australia,1961,71.160004
+Australia,1962,70.93
+Australia,1963,70.989998
+Australia,1964,70.650002
+Australia,1965,70.980003
+Australia,1966,70.82
+Australia,1967,71.099998
+Australia,1968,70.730003
+Australia,1969,71.139999
+Australia,1970,70.809998
+Australia,1971,71.410004
+Australia,1972,71.93
+Australia,1973,72.139999
+Australia,1974,71.889999
+Australia,1975,72.839996
+Australia,1976,72.879997
+Australia,1977,73.489998
+Australia,1978,73.879997
+Australia,1979,74.440002
+Australia,1980,74.599998
+Australia,1981,74.959999
+Australia,1982,74.739998
+Australia,1983,75.550003
+Australia,1984,76.019997
+Australia,1985,75.449997
+Australia,1986,76.129997
+Australia,1987,76.32
+Australia,1988,76.349998
+Australia,1989,76.449997
+Australia,1990,77.019997
+Australia,1991,77.389999
+Australia,1992,77.620003
+Australia,1993,77.889999
+Australia,1994,78.050003
+Australia,1995,78.300003
+Australia,1996,78.5
+Australia,1997,78.800003
+Australia,1998,79.110001
+Australia,1999,79.400002
+Australia,2000,79.709999
+Australia,2001,80.019997
+Australia,2002,80.239998
+Australia,2003,80.540001
+Australia,2004,80.809998
+Australia,2005,81.089996
+Australia,2006,81.269997
+Australia,2007,81.43
+Australia,2008,81.580002
+Australia,2009,81.790001
+Australia,2010,81.989998
+Australia,2011,82.150002
+Australia,2012,82.330002
+Australia,2013,82.529999
+Australia,2014,82.580002
+Australia,2015,82.550003
+Australia,2016,82.519997
+Brazil,1800,32
+Brazil,1801,31.999807
+Brazil,1802,31.999613
+Brazil,1803,31.99942
+Brazil,1804,31.999228
+Brazil,1805,31.999033
+Brazil,1806,31.99884
+Brazil,1807,31.998646
+Brazil,1808,31.998453
+Brazil,1809,31.99826
+Brazil,1810,31.998066
+Brazil,1811,31.997873
+Brazil,1812,31.997681
+Brazil,1813,31.997486
+Brazil,1814,31.997293
+Brazil,1815,31.997101
+Brazil,1816,31.996906
+Brazil,1817,31.996714
+Brazil,1818,31.996519
+Brazil,1819,31.996326
+Brazil,1820,31.996134
+Brazil,1821,31.995939
+Brazil,1822,31.995747
+Brazil,1823,31.995554
+Brazil,1824,31.995359
+Brazil,1825,31.995167
+Brazil,1826,31.994974
+Brazil,1827,31.99478
+Brazil,1828,31.994587
+Brazil,1829,31.994392
+Brazil,1830,31.9942
+Brazil,1831,31.994007
+Brazil,1832,31.993813
+Brazil,1833,31.99362
+Brazil,1834,31.993427
+Brazil,1835,31.993233
+Brazil,1836,31.99304
+Brazil,1837,31.992847
+Brazil,1838,31.992653
+Brazil,1839,31.99246
+Brazil,1840,31.992268
+Brazil,1841,31.992073
+Brazil,1842,31.99188
+Brazil,1843,31.991686
+Brazil,1844,31.991493
+Brazil,1845,31.991301
+Brazil,1846,31.991106
+Brazil,1847,31.990913
+Brazil,1848,31.990721
+Brazil,1849,31.990526
+Brazil,1850,31.990334
+Brazil,1851,31.990141
+Brazil,1852,31.989946
+Brazil,1853,31.989754
+Brazil,1854,31.989559
+Brazil,1855,31.989367
+Brazil,1856,31.989174
+Brazil,1857,31.988979
+Brazil,1858,31.988787
+Brazil,1859,31.988594
+Brazil,1860,31.9884
+Brazil,1861,31.988207
+Brazil,1862,31.988014
+Brazil,1863,31.98782
+Brazil,1864,31.987627
+Brazil,1865,31.987432
+Brazil,1866,31.98724
+Brazil,1867,31.987047
+Brazil,1868,31.986853
+Brazil,1869,31.98666
+Brazil,1870,31.986467
+Brazil,1871,31.986273
+Brazil,1872,31.98608
+Brazil,1873,31.985888
+Brazil,1874,31.985693
+Brazil,1875,31.9855
+Brazil,1876,31.985306
+Brazil,1877,31.985113
+Brazil,1878,31.984921
+Brazil,1879,31.984726
+Brazil,1880,31.984533
+Brazil,1881,31.984341
+Brazil,1882,31.984146
+Brazil,1883,31.983953
+Brazil,1884,31.983761
+Brazil,1885,31.983566
+Brazil,1886,31.983374
+Brazil,1887,31.983179
+Brazil,1888,31.982986
+Brazil,1889,31.982794
+Brazil,1890,31.982599
+Brazil,1891,31.982407
+Brazil,1892,31.982214
+Brazil,1893,31.982019
+Brazil,1894,31.981827
+Brazil,1895,31.981634
+Brazil,1896,31.98144
+Brazil,1897,31.981247
+Brazil,1898,31.981052
+Brazil,1899,31.98086
+Brazil,1900,31.980667
+Brazil,1901,31.980473
+Brazil,1902,31.98028
+Brazil,1903,31.980087
+Brazil,1904,31.979893
+Brazil,1905,31.9797
+Brazil,1906,31.979507
+Brazil,1907,31.979313
+Brazil,1908,31.97912
+Brazil,1909,31.978928
+Brazil,1910,31.978733
+Brazil,1911,31.97854
+Brazil,1912,31.978346
+Brazil,1913,31.978153
+Brazil,1914,31.977961
+Brazil,1915,31.977766
+Brazil,1916,31.977573
+Brazil,1917,31.977381
+Brazil,1918,26.978191
+Brazil,1919,31.976994
+Brazil,1920,31.976801
+Brazil,1921,31.97912
+Brazil,1922,31.98144
+Brazil,1923,31.983761
+Brazil,1924,31.98608
+Brazil,1925,31.9884
+Brazil,1926,31.990721
+Brazil,1927,31.99304
+Brazil,1928,31.995359
+Brazil,1929,31.997681
+Brazil,1930,32
+Brazil,1931,32.464073
+Brazil,1932,32.928143
+Brazil,1933,33.392216
+Brazil,1934,33.856289
+Brazil,1935,34.320358
+Brazil,1936,34.784431
+Brazil,1937,35.248505
+Brazil,1938,35.712578
+Brazil,1939,36.176647
+Brazil,1940,36.64072
+Brazil,1941,37.772575
+Brazil,1942,38.90443
+Brazil,1943,40.036289
+Brazil,1944,41.168144
+Brazil,1945,42.299999
+Brazil,1946,43.848
+Brazil,1947,45.396
+Brazil,1948,46.944
+Brazil,1949,48.492001
+Brazil,1950,50.040001
+Brazil,1951,50.279999
+Brazil,1952,50.763
+Brazil,1953,51.248001
+Brazil,1954,51.737
+Brazil,1955,52.23
+Brazil,1956,52.724998
+Brazil,1957,53.222
+Brazil,1958,53.720001
+Brazil,1959,54.214001
+Brazil,1960,54.702
+Brazil,1961,55.179001
+Brazil,1962,55.643002
+Brazil,1963,56.091
+Brazil,1964,56.521
+Brazil,1965,56.935001
+Brazil,1966,57.334
+Brazil,1967,57.722
+Brazil,1968,58.105
+Brazil,1969,58.484001
+Brazil,1970,58.865002
+Brazil,1971,59.250999
+Brazil,1972,59.644001
+Brazil,1973,60.042
+Brazil,1974,60.443001
+Brazil,1975,60.844002
+Brazil,1976,61.236
+Brazil,1977,61.615002
+Brazil,1978,61.978001
+Brazil,1979,62.327999
+Brazil,1980,62.668999
+Brazil,1981,63.007999
+Brazil,1982,63.353001
+Brazil,1983,63.709999
+Brazil,1984,64.081001
+Brazil,1985,64.466003
+Brazil,1986,64.862
+Brazil,1987,65.264
+Brazil,1988,65.667
+Brazil,1989,66.068001
+Brazil,1990,68.410004
+Brazil,1991,68.739998
+Brazil,1992,68.910004
+Brazil,1993,69.129997
+Brazil,1994,69.379997
+Brazil,1995,69.660004
+Brazil,1996,69.959999
+Brazil,1997,70.339996
+Brazil,1998,70.669998
+Brazil,1999,70.980003
+Brazil,2000,71.360001
+Brazil,2001,71.760002
+Brazil,2002,72.059998
+Brazil,2003,72.330002
+Brazil,2004,72.620003
+Brazil,2005,72.93
+Brazil,2006,73.199997
+Brazil,2007,73.459999
+Brazil,2008,73.720001
+Brazil,2009,73.940002
+Brazil,2010,74.150002
+Brazil,2011,74.379997
+Brazil,2012,74.639999
+Brazil,2013,74.839996
+Brazil,2014,75.010002
+Brazil,2015,75.139999
+Brazil,2016,75.239998
+Canada,1800,39
+Canada,1801,39.001495
+Canada,1802,39.002995
+Canada,1803,39.00449
+Canada,1804,39.005985
+Canada,1805,39.007484
+Canada,1806,39.00898
+Canada,1807,39.010479
+Canada,1808,39.011974
+Canada,1809,39.01347
+Canada,1810,39.014969
+Canada,1811,39.016464
+Canada,1812,39.01796
+Canada,1813,39.019459
+Canada,1814,39.020954
+Canada,1815,39.022453
+Canada,1816,39.023949
+Canada,1817,39.025444
+Canada,1818,39.026943
+Canada,1819,39.028439
+Canada,1820,39.029934
+Canada,1821,39.031433
+Canada,1822,39.032928
+Canada,1823,39.034428
+Canada,1824,39.035923
+Canada,1825,39.037418
+Canada,1826,39.038918
+Canada,1827,39.040413
+Canada,1828,39.041908
+Canada,1829,39.043407
+Canada,1830,39.044903
+Canada,1831,39.046398
+Canada,1832,39.173481
+Canada,1833,39.30056
+Canada,1834,39.427639
+Canada,1835,39.554722
+Canada,1836,39.681801
+Canada,1837,39.80888
+Canada,1838,39.935959
+Canada,1839,40.063042
+Canada,1840,40.190121
+Canada,1841,40.3172
+Canada,1842,40.391449
+Canada,1843,40.465694
+Canada,1844,40.539944
+Canada,1845,40.614193
+Canada,1846,40.688438
+Canada,1847,40.762688
+Canada,1848,40.836937
+Canada,1849,40.911182
+Canada,1850,40.985432
+Canada,1851,41.059681
+Canada,1852,41.113216
+Canada,1853,41.166752
+Canada,1854,41.220287
+Canada,1855,41.273823
+Canada,1856,41.327358
+Canada,1857,41.380898
+Canada,1858,41.434433
+Canada,1859,41.487968
+Canada,1860,41.541504
+Canada,1861,41.595039
+Canada,1862,41.691216
+Canada,1863,41.787392
+Canada,1864,41.883568
+Canada,1865,41.979744
+Canada,1866,42.07592
+Canada,1867,42.172096
+Canada,1868,42.268272
+Canada,1869,42.364449
+Canada,1870,42.460625
+Canada,1871,42.556801
+Canada,1872,42.774097
+Canada,1873,42.99139
+Canada,1874,43.208687
+Canada,1875,43.425983
+Canada,1876,43.64328
+Canada,1877,43.860577
+Canada,1878,44.077873
+Canada,1879,44.29517
+Canada,1880,44.512463
+Canada,1881,44.729759
+Canada,1882,44.7742
+Canada,1883,44.818642
+Canada,1884,44.863079
+Canada,1885,44.90752
+Canada,1886,44.951962
+Canada,1887,44.996399
+Canada,1888,45.04084
+Canada,1889,45.085281
+Canada,1890,45.129719
+Canada,1891,45.17416
+Canada,1892,45.520191
+Canada,1893,45.866222
+Canada,1894,46.212257
+Canada,1895,46.558289
+Canada,1896,46.90432
+Canada,1897,47.250351
+Canada,1898,47.596382
+Canada,1899,47.942417
+Canada,1900,48.288448
+Canada,1901,48.63448
+Canada,1902,49.022095
+Canada,1903,49.409714
+Canada,1904,49.797329
+Canada,1905,50.184944
+Canada,1906,50.572559
+Canada,1907,50.960175
+Canada,1908,51.347794
+Canada,1909,51.735409
+Canada,1910,52.123024
+Canada,1911,52.510639
+Canada,1912,52.961575
+Canada,1913,53.412514
+Canada,1914,53.863449
+Canada,1915,54.314384
+Canada,1916,54.76532
+Canada,1917,55.216255
+Canada,1918,47.169968
+Canada,1919,56.11813
+Canada,1920,56.569065
+Canada,1921,57.02
+Canada,1922,57.02
+Canada,1923,57.02
+Canada,1924,58.830002
+Canada,1925,59.310001
+Canada,1926,57.990002
+Canada,1927,58.68
+Canada,1928,58.57
+Canada,1929,57.970001
+Canada,1930,58.950001
+Canada,1931,60.360001
+Canada,1932,61.43
+Canada,1933,62.360001
+Canada,1934,62.77
+Canada,1935,62.490002
+Canada,1936,62.720001
+Canada,1937,61.349998
+Canada,1938,63.310001
+Canada,1939,63.740002
+Canada,1940,64.010002
+Canada,1941,63.759998
+Canada,1942,64.699997
+Canada,1943,64.610001
+Canada,1944,65.349998
+Canada,1945,66.330002
+Canada,1946,66.529999
+Canada,1947,66.779999
+Canada,1948,67.330002
+Canada,1949,67.650002
+Canada,1950,68.279999
+Canada,1951,68.550003
+Canada,1952,68.75
+Canada,1953,69.129997
+Canada,1954,69.989998
+Canada,1955,70.050003
+Canada,1956,70.040001
+Canada,1957,69.959999
+Canada,1958,70.620003
+Canada,1959,70.660004
+Canada,1960,71.040001
+Canada,1961,71.269997
+Canada,1962,71.300003
+Canada,1963,71.309998
+Canada,1964,71.690002
+Canada,1965,71.790001
+Canada,1966,71.919998
+Canada,1967,72.129997
+Canada,1968,72.290001
+Canada,1969,72.449997
+Canada,1970,72.650002
+Canada,1971,72.980003
+Canada,1972,72.879997
+Canada,1973,73.110001
+Canada,1974,73.190002
+Canada,1975,73.489998
+Canada,1976,73.919998
+Canada,1977,74.209999
+Canada,1978,74.540001
+Canada,1979,74.900002
+Canada,1980,75.139999
+Canada,1981,75.550003
+Canada,1982,75.760002
+Canada,1983,76.129997
+Canada,1984,76.43
+Canada,1985,76.410004
+Canada,1986,76.559998
+Canada,1987,76.860001
+Canada,1988,76.93
+Canada,1989,77.199997
+Canada,1990,77.43
+Canada,1991,77.610001
+Canada,1992,77.760002
+Canada,1993,77.82
+Canada,1994,77.93
+Canada,1995,78.07
+Canada,1996,78.309998
+Canada,1997,78.57
+Canada,1998,78.779999
+Canada,1999,79.010002
+Canada,2000,79.260002
+Canada,2001,79.480003
+Canada,2002,79.660004
+Canada,2003,79.839996
+Canada,2004,80.050003
+Canada,2005,80.230003
+Canada,2006,80.480003
+Canada,2007,80.650002
+Canada,2008,80.870003
+Canada,2009,81.120003
+Canada,2010,81.339996
+Canada,2011,81.529999
+Canada,2012,81.660004
+Canada,2013,81.75
+Canada,2014,81.790001
+Canada,2015,81.769997
+Canada,2016,81.849998
+China,1800,32
+China,1801,32
+China,1802,32
+China,1803,32
+China,1804,32
+China,1805,32
+China,1806,32
+China,1807,32
+China,1808,32
+China,1809,32
+China,1810,32
+China,1811,32
+China,1812,32
+China,1813,32
+China,1814,32
+China,1815,32
+China,1816,32
+China,1817,32
+China,1818,32
+China,1819,32
+China,1820,32
+China,1821,32
+China,1822,32
+China,1823,32
+China,1824,32
+China,1825,32
+China,1826,32
+China,1827,32
+China,1828,32
+China,1829,32
+China,1830,32
+China,1831,32
+China,1832,32
+China,1833,32
+China,1834,32
+China,1835,32
+China,1836,32
+China,1837,32
+China,1838,32
+China,1839,32
+China,1840,32
+China,1841,32
+China,1842,32
+China,1843,32
+China,1844,32
+China,1845,32
+China,1846,32
+China,1847,32
+China,1848,32
+China,1849,32
+China,1850,32
+China,1851,31
+China,1852,30
+China,1853,29
+China,1854,28
+China,1855,27
+China,1856,26
+China,1857,26.7125
+China,1858,27.424999
+China,1859,28.137501
+China,1860,28.85
+China,1861,29.5625
+China,1862,30.275
+China,1863,30.987499
+China,1864,31.700001
+China,1865,31.742857
+China,1866,31.785715
+China,1867,31.828571
+China,1868,31.871429
+China,1869,31.914286
+China,1870,31.957144
+China,1871,32
+China,1872,32
+China,1873,32
+China,1874,32
+China,1875,32
+China,1876,29.5
+China,1877,27.5
+China,1878,25.200001
+China,1879,28.5
+China,1880,32
+China,1881,32
+China,1882,32
+China,1883,32
+China,1884,32
+China,1885,32
+China,1886,32
+China,1887,32
+China,1888,32
+China,1889,32
+China,1890,32
+China,1891,32
+China,1892,32
+China,1893,32
+China,1894,32
+China,1895,32
+China,1896,32
+China,1897,32
+China,1898,32
+China,1899,32
+China,1900,32
+China,1901,32
+China,1902,32
+China,1903,32
+China,1904,32
+China,1905,32
+China,1906,32
+China,1907,32
+China,1908,32
+China,1909,32
+China,1910,32
+China,1911,32
+China,1912,32
+China,1913,32
+China,1914,32
+China,1915,32
+China,1916,32
+China,1917,32
+China,1918,22.409521
+China,1919,32
+China,1920,32
+China,1921,32
+China,1922,32
+China,1923,32
+China,1924,32
+China,1925,32
+China,1926,32.360001
+China,1927,25.65
+China,1928,33.080002
+China,1929,29.85
+China,1930,33.799999
+China,1931,34.200001
+China,1932,34.599998
+China,1933,35
+China,1934,35.400002
+China,1935,35.799999
+China,1936,36.200001
+China,1937,34
+China,1938,33.86343
+China,1939,34.11343
+China,1940,34.36343
+China,1941,34
+China,1942,32
+China,1943,29
+China,1944,35
+China,1945,37
+China,1946,38.5
+China,1947,39.599998
+China,1948,40.099998
+China,1949,40.599998
+China,1950,41.589882
+China,1951,42.579762
+China,1952,43.569641
+China,1953,44.559521
+China,1954,46.465599
+China,1955,48.02216
+China,1956,50.445278
+China,1957,50.548962
+China,1958,50.158401
+China,1959,38.40448
+China,1960,31.63176
+China,1961,34.104481
+China,1962,44.501362
+China,1963,51.89912
+China,1964,53.320721
+China,1965,55.646801
+China,1966,56.8032
+China,1967,58.381119
+China,1968,59.405201
+China,1969,60.965199
+China,1970,62.650799
+China,1971,63.737358
+China,1972,63.118881
+China,1973,62.7808
+China,1974,62.499599
+China,1975,62.698879
+China,1976,62.437359
+China,1977,63.967361
+China,1978,64.244324
+China,1979,65.085358
+China,1980,66.122162
+China,1981,66.44976
+China,1982,67.587997
+China,1983,67.848
+China,1984,68.099998
+China,1985,68.344002
+China,1986,68.581001
+China,1987,68.809998
+China,1988,69.031998
+China,1989,69.248001
+China,1990,66.959999
+China,1991,67.230003
+China,1992,67.43
+China,1993,67.669998
+China,1994,67.940002
+China,1995,68.290001
+China,1996,68.620003
+China,1997,68.919998
+China,1998,69.25
+China,1999,69.610001
+China,2000,69.940002
+China,2001,70.220001
+China,2002,70.519997
+China,2003,71.220001
+China,2004,71.779999
+China,2005,72.260002
+China,2006,72.879997
+China,2007,73.379997
+China,2008,73.599998
+China,2009,74.120003
+China,2010,74.419998
+China,2011,74.870003
+China,2012,75.25
+China,2013,75.519997
+China,2014,75.68
+China,2015,76.040001
+China,2016,76.360001
+France,1800,33.967171
+France,1801,36.374649
+France,1802,34.379993
+France,1803,30.642622
+France,1804,29.381762
+France,1805,34.87632
+France,1806,35
+France,1807,34.200001
+France,1808,34.5
+France,1809,35
+France,1810,37.400002
+France,1811,36.099998
+France,1812,31.700001
+France,1813,31.200001
+France,1814,30.1
+France,1815,36.5
+France,1816,40.040001
+France,1817,39.18
+France,1818,38.529999
+France,1819,37.25
+France,1820,39.209999
+France,1821,39.830002
+France,1822,38.299999
+France,1823,39.970001
+France,1824,39.139999
+France,1825,38.529999
+France,1826,37.759998
+France,1827,39.349998
+France,1828,37.529999
+France,1829,39.360001
+France,1830,39.560001
+France,1831,39.650002
+France,1832,35.810001
+France,1833,38.830002
+France,1834,35.009998
+France,1835,39.48
+France,1836,41.950001
+France,1837,39.380001
+France,1838,39.330002
+France,1839,40.91
+France,1840,40.369999
+France,1841,40.68
+France,1842,40.009998
+France,1843,40.75
+France,1844,42.290001
+France,1845,43.580002
+France,1846,40.669998
+France,1847,40.41
+France,1848,40.290001
+France,1849,35.91
+France,1850,43.279999
+France,1851,41.77
+France,1852,41.32
+France,1853,42.52
+France,1854,36.130001
+France,1855,37.540001
+France,1856,40.18
+France,1857,39.59
+France,1858,39.669998
+France,1859,35.259998
+France,1860,43.330002
+France,1861,40.450001
+France,1862,42.700001
+France,1863,41.73
+France,1864,42.009998
+France,1865,40.16
+France,1866,41.830002
+France,1867,42.330002
+France,1868,40.23
+France,1869,41.139999
+France,1870,36.41
+France,1871,29.59
+France,1872,42.639999
+France,1873,41.75
+France,1874,44.299999
+France,1875,43.169998
+France,1876,43.549999
+France,1877,44.330002
+France,1878,43.360001
+France,1879,43.990002
+France,1880,42.73
+France,1881,43.549999
+France,1882,43.16
+France,1883,43.279999
+France,1884,42.52
+France,1885,43.970001
+France,1886,43.169998
+France,1887,43.75
+France,1888,44.150002
+France,1889,45.560001
+France,1890,43.360001
+France,1891,44.110001
+France,1892,43.57
+France,1893,43.599998
+France,1894,45.529999
+France,1895,45.200001
+France,1896,47.560001
+France,1897,47.93
+France,1898,45.990002
+France,1899,45.23
+France,1900,45.080002
+France,1901,47.009998
+France,1902,48.009998
+France,1903,48.43
+France,1904,48.080002
+France,1905,48.360001
+France,1906,47.740002
+France,1907,48.279999
+France,1908,49.299999
+France,1909,50.009998
+France,1910,51.369999
+France,1911,48.169998
+France,1912,51.619999
+France,1913,51.349998
+France,1914,37.849998
+France,1915,35.630001
+France,1916,39.509998
+France,1917,42.599998
+France,1918,34.34
+France,1919,47.52
+France,1920,51.599998
+France,1921,52.689999
+France,1922,54.919998
+France,1923,54.650002
+France,1924,55.27
+France,1925,54.389999
+France,1926,54.029999
+France,1927,55.799999
+France,1928,55.439999
+France,1929,54.27
+France,1930,56.869999
+France,1931,56.93
+France,1932,57.259998
+France,1933,57.700001
+France,1934,58.360001
+France,1935,58.32
+France,1936,58.810001
+France,1937,59.169998
+France,1938,58.970001
+France,1939,59.619999
+France,1940,49.450001
+France,1941,57.669998
+France,1942,57.439999
+France,1943,53.330002
+France,1944,47.189999
+France,1945,54.959999
+France,1946,62.380001
+France,1947,63.98
+France,1948,65.830002
+France,1949,64.919998
+France,1950,66.389999
+France,1951,66.120003
+France,1952,67.410004
+France,1953,67.339996
+France,1954,68.209999
+France,1955,68.470001
+France,1956,68.5
+France,1957,68.93
+France,1958,70.160004
+France,1959,70.190002
+France,1960,70.400002
+France,1961,70.980003
+France,1962,70.510002
+France,1963,70.360001
+France,1964,71.32
+France,1965,71.150002
+France,1966,71.559998
+France,1967,71.550003
+France,1968,71.540001
+France,1969,71.269997
+France,1970,72.160004
+France,1971,72.129997
+France,1972,72.379997
+France,1973,72.540001
+France,1974,72.889999
+France,1975,72.980003
+France,1976,73.220001
+France,1977,73.830002
+France,1978,73.949997
+France,1979,74.260002
+France,1980,74.349998
+France,1981,74.510002
+France,1982,74.889999
+France,1983,74.870003
+France,1984,75.370003
+France,1985,75.470001
+France,1986,75.75
+France,1987,76.339996
+France,1988,76.57
+France,1989,76.690002
+France,1990,77.160004
+France,1991,77.349998
+France,1992,77.57
+France,1993,77.739998
+France,1994,77.949997
+France,1995,78.120003
+France,1996,78.330002
+France,1997,78.650002
+France,1998,78.769997
+France,1999,78.919998
+France,2000,79.120003
+France,2001,79.349998
+France,2002,79.589996
+France,2003,79.769997
+France,2004,80.150002
+France,2005,80.400002
+France,2006,80.669998
+France,2007,80.910004
+France,2008,81.080002
+France,2009,81.290001
+France,2010,81.480003
+France,2011,81.709999
+France,2012,81.839996
+France,2013,82.010002
+France,2014,82.220001
+France,2015,82.269997
+France,2016,82.339996
+Germany,1800,38.369999
+Germany,1801,38.369999
+Germany,1802,38.369999
+Germany,1803,38.369999
+Germany,1804,38.369999
+Germany,1805,38.369999
+Germany,1806,38.369999
+Germany,1807,38.369999
+Germany,1808,38.369999
+Germany,1809,38.369999
+Germany,1810,38.369999
+Germany,1811,38.369999
+Germany,1812,38.369999
+Germany,1813,38.369999
+Germany,1814,38.369999
+Germany,1815,38.369999
+Germany,1816,38.369999
+Germany,1817,38.369999
+Germany,1818,38.369999
+Germany,1819,38.369999
+Germany,1820,38.369999
+Germany,1821,38.369999
+Germany,1822,38.369999
+Germany,1823,38.369999
+Germany,1824,38.369999
+Germany,1825,38.369999
+Germany,1826,38.369999
+Germany,1827,38.369999
+Germany,1828,38.369999
+Germany,1829,38.369999
+Germany,1830,38.369999
+Germany,1831,38.369999
+Germany,1832,38.369999
+Germany,1833,38.369999
+Germany,1834,38.369999
+Germany,1835,38.369999
+Germany,1836,38.369999
+Germany,1837,38.369999
+Germany,1838,38.369999
+Germany,1839,38.369999
+Germany,1840,38.369999
+Germany,1841,38.369999
+Germany,1842,38.369999
+Germany,1843,38.369999
+Germany,1844,38.369999
+Germany,1845,38.369999
+Germany,1846,38.369999
+Germany,1847,38.369999
+Germany,1848,38.369999
+Germany,1849,38.369999
+Germany,1850,38.369999
+Germany,1851,38.369999
+Germany,1852,38.369999
+Germany,1853,38.369999
+Germany,1854,38.369999
+Germany,1855,38.369999
+Germany,1856,38.369999
+Germany,1857,38.369999
+Germany,1858,38.369999
+Germany,1859,38.369999
+Germany,1860,38.369999
+Germany,1861,38.369999
+Germany,1862,38.369999
+Germany,1863,38.369999
+Germany,1864,38.369999
+Germany,1865,38.369999
+Germany,1866,38.369999
+Germany,1867,38.369999
+Germany,1868,38.369999
+Germany,1869,38.369999
+Germany,1870,38.369999
+Germany,1871,38.369999
+Germany,1872,38.369999
+Germany,1873,38.369999
+Germany,1874,38.369999
+Germany,1875,38.369999
+Germany,1876,38.477001
+Germany,1877,38.584
+Germany,1878,38.691002
+Germany,1879,38.798
+Germany,1880,38.904999
+Germany,1881,39.012001
+Germany,1882,39.118999
+Germany,1883,39.226002
+Germany,1884,39.333
+Germany,1885,39.439999
+Germany,1886,39.734001
+Germany,1887,40.028
+Germany,1888,40.321999
+Germany,1889,40.616001
+Germany,1890,40.91
+Germany,1891,41.203999
+Germany,1892,41.498001
+Germany,1893,41.792
+Germany,1894,42.085999
+Germany,1895,42.380001
+Germany,1896,42.687
+Germany,1897,42.993999
+Germany,1898,43.300999
+Germany,1899,43.608002
+Germany,1900,43.915001
+Germany,1901,44.222
+Germany,1902,44.528999
+Germany,1903,44.835999
+Germany,1904,45.143002
+Germany,1905,45.450001
+Germany,1906,46.041668
+Germany,1907,46.633335
+Germany,1908,47.224998
+Germany,1909,47.816666
+Germany,1910,48.408333
+Germany,1911,49
+Germany,1912,49.591667
+Germany,1913,50.183334
+Germany,1914,46.176483
+Germany,1915,40.525562
+Germany,1916,38.988819
+Germany,1917,40.080376
+Germany,1918,32.936821
+Germany,1919,48.32066
+Germany,1920,53.5
+Germany,1921,55.014286
+Germany,1922,55.615715
+Germany,1923,56.217144
+Germany,1924,56.818573
+Germany,1925,57.419998
+Germany,1926,57.827999
+Germany,1927,58.236
+Germany,1928,58.644001
+Germany,1929,59.051998
+Germany,1930,59.459999
+Germany,1931,59.868
+Germany,1932,60.276001
+Germany,1933,60.683998
+Germany,1934,61.091999
+Germany,1935,61.5
+Germany,1936,61.786667
+Germany,1937,62.073334
+Germany,1938,62.360001
+Germany,1939,61
+Germany,1940,60.659874
+Germany,1941,59
+Germany,1942,55
+Germany,1943,49.700001
+Germany,1944,37
+Germany,1945,29
+Germany,1946,60.51136
+Germany,1947,62.10952
+Germany,1948,63.70768
+Germany,1949,65.30584
+Germany,1950,66.903999
+Germany,1951,67.066002
+Germany,1952,67.385002
+Germany,1953,67.692001
+Germany,1954,67.987999
+Germany,1955,68.271004
+Germany,1956,68.562447
+Germany,1957,68.480408
+Germany,1958,69.220451
+Germany,1959,69.327461
+Germany,1960,69.245232
+Germany,1961,69.836433
+Germany,1962,70.004387
+Germany,1963,70.092888
+Germany,1964,70.6511
+Germany,1965,70.634499
+Germany,1966,70.748108
+Germany,1967,70.969948
+Germany,1968,70.615448
+Germany,1969,70.464897
+Germany,1970,70.704155
+Germany,1971,70.920242
+Germany,1972,71.144203
+Germany,1973,71.390862
+Germany,1974,71.692909
+Germany,1975,71.538567
+Germany,1976,71.999985
+Germany,1977,72.610657
+Germany,1978,72.584106
+Germany,1979,72.943237
+Germany,1980,73.116646
+Germany,1981,73.353973
+Germany,1982,73.656998
+Germany,1983,73.935532
+Germany,1984,74.413895
+Germany,1985,74.517555
+Germany,1986,74.72496
+Germany,1987,75.122932
+Germany,1988,75.295944
+Germany,1989,75.478043
+Germany,1990,75.470001
+Germany,1991,75.709999
+Germany,1992,76
+Germany,1993,76.169998
+Germany,1994,76.400002
+Germany,1995,76.639999
+Germany,1996,76.889999
+Germany,1997,77.18
+Germany,1998,77.449997
+Germany,1999,77.730003
+Germany,2000,78.019997
+Germany,2001,78.300003
+Germany,2002,78.519997
+Germany,2003,78.720001
+Germany,2004,79.019997
+Germany,2005,79.25
+Germany,2006,79.489998
+Germany,2007,79.669998
+Germany,2008,79.830002
+Germany,2009,79.970001
+Germany,2010,80.139999
+Germany,2011,80.32
+Germany,2012,80.480003
+Germany,2013,80.57
+Germany,2014,80.790001
+Germany,2015,80.870003
+Germany,2016,80.93
+India,1800,25.4424
+India,1801,25.4424
+India,1802,25
+India,1803,24
+India,1804,23.5
+India,1805,25.4424
+India,1806,25.4424
+India,1807,25.4424
+India,1808,25.4424
+India,1809,25.4424
+India,1810,25.4424
+India,1811,25.4424
+India,1812,23
+India,1813,25.4424
+India,1814,25.4424
+India,1815,25.4424
+India,1816,25.4424
+India,1817,25.4424
+India,1818,25.4424
+India,1819,25.4424
+India,1820,25.4424
+India,1821,25.4424
+India,1822,25.4424
+India,1823,25.4424
+India,1824,25.4424
+India,1825,25.4424
+India,1826,25.4424
+India,1827,25.4424
+India,1828,25.4424
+India,1829,25.4424
+India,1830,25.4424
+India,1831,25.4424
+India,1832,23
+India,1833,22
+India,1834,25.4424
+India,1835,25.4424
+India,1836,25.4424
+India,1837,24.299999
+India,1838,23.9
+India,1839,25.4424
+India,1840,25.4424
+India,1841,25.4424
+India,1842,25.4424
+India,1843,25.4424
+India,1844,25.4424
+India,1845,25.4424
+India,1846,25.4424
+India,1847,25.4424
+India,1848,25.4424
+India,1849,25.4424
+India,1850,25.4424
+India,1851,25.4424
+India,1852,25.4424
+India,1853,25.4424
+India,1854,25.4424
+India,1855,25.4424
+India,1856,25.4424
+India,1857,25.4424
+India,1858,25.4424
+India,1859,25.4424
+India,1860,23
+India,1861,22
+India,1862,25.4424
+India,1863,25.4424
+India,1864,25.252296
+India,1865,25.252296
+India,1866,21.039825
+India,1867,25.252296
+India,1868,25.252296
+India,1869,21.304474
+India,1870,25.4424
+India,1871,25.4424
+India,1872,25.4424
+India,1873,25.4424
+India,1874,25.4424
+India,1875,25.110001
+India,1876,20
+India,1877,19
+India,1878,20
+India,1879,25.4424
+India,1880,25.4424
+India,1881,25.4424
+India,1882,25.3248
+India,1883,25.207199
+India,1884,25.0896
+India,1885,24.972
+India,1886,24.854401
+India,1887,24.736799
+India,1888,24.417561
+India,1889,24.300924
+India,1890,24.384001
+India,1891,23.025278
+India,1892,22.654757
+India,1893,24.110241
+India,1894,24.03216
+India,1895,23.950001
+India,1896,22.75
+India,1897,19.85
+India,1898,25.75
+India,1899,23.35
+India,1900,18.35
+India,1901,23.049999
+India,1902,23.6
+India,1903,23.417761
+India,1904,22
+India,1905,21.9
+India,1906,21.886934
+India,1907,19.238894
+India,1908,23.248159
+India,1909,23.214239
+India,1910,23.180321
+India,1911,23.1464
+India,1912,23.338577
+India,1913,23.530756
+India,1914,23.722933
+India,1915,23.915112
+India,1916,24.107288
+India,1917,24.299467
+India,1918,8.1088362
+India,1919,24.578934
+India,1920,24.718666
+India,1921,24.8584
+India,1922,25.304001
+India,1923,25.749599
+India,1924,26.1952
+India,1925,26.6408
+India,1926,27.086399
+India,1927,27.532
+India,1928,27.9776
+India,1929,28.423201
+India,1930,28.868799
+India,1931,29.3144
+India,1932,29.642241
+India,1933,29.970079
+India,1934,30.29792
+India,1935,30.625759
+India,1936,30.9536
+India,1937,31.281441
+India,1938,31.60928
+India,1939,31.93712
+India,1940,32.264961
+India,1941,32.5928
+India,1942,32.841377
+India,1943,32.099751
+India,1944,32.596069
+India,1945,33.587112
+India,1946,33.83569
+India,1947,32.378502
+India,1948,34.08567
+India,1949,34.581421
+India,1950,34.830002
+India,1951,35.167
+India,1952,35.842999
+India,1953,36.521999
+India,1954,37.203999
+India,1955,37.889
+India,1956,38.577999
+India,1957,39.271
+India,1958,39.969002
+India,1959,40.674999
+India,1960,41.390999
+India,1961,42.118999
+India,1962,42.860001
+India,1963,43.612999
+India,1964,44.375
+India,1965,45.140999
+India,1966,45.903
+India,1967,46.654999
+India,1968,47.394001
+India,1969,48.118999
+India,1970,48.835999
+India,1971,49.554001
+India,1972,50.280998
+India,1973,51.014999
+India,1974,51.75
+India,1975,52.470001
+India,1976,53.159
+India,1977,53.799999
+India,1978,54.382999
+India,1979,54.903
+India,1980,55.362999
+India,1981,55.766998
+India,1982,56.131001
+India,1983,56.470001
+India,1984,56.792
+India,1985,57.102001
+India,1986,57.400002
+India,1987,57.687
+India,1988,57.964001
+India,1989,58.237999
+India,1990,58.959999
+India,1991,59.310001
+India,1992,59.650002
+India,1993,60.02
+India,1994,60.380001
+India,1995,60.73
+India,1996,61.029999
+India,1997,61.279999
+India,1998,61.610001
+India,1999,61.939999
+India,2000,62.290001
+India,2001,62.619999
+India,2002,63
+India,2003,63.400002
+India,2004,63.77
+India,2005,64.160004
+India,2006,64.550003
+India,2007,64.93
+India,2008,65.32
+India,2009,65.730003
+India,2010,66.120003
+India,2011,66.510002
+India,2012,66.910004
+India,2013,67.279999
+India,2014,67.720001
+India,2015,68.099998
+India,2016,68.550003
+Italy,1800,29.690001
+Italy,1801,29.690001
+Italy,1802,29.690001
+Italy,1803,29.690001
+Italy,1804,29.690001
+Italy,1805,29.690001
+Italy,1806,29.690001
+Italy,1807,29.690001
+Italy,1808,29.690001
+Italy,1809,29.690001
+Italy,1810,29.690001
+Italy,1811,29.690001
+Italy,1812,29.690001
+Italy,1813,29.690001
+Italy,1814,29.690001
+Italy,1815,29.690001
+Italy,1816,29.690001
+Italy,1817,29.690001
+Italy,1818,29.690001
+Italy,1819,29.690001
+Italy,1820,29.690001
+Italy,1821,29.690001
+Italy,1822,29.690001
+Italy,1823,29.690001
+Italy,1824,29.690001
+Italy,1825,29.690001
+Italy,1826,29.690001
+Italy,1827,29.690001
+Italy,1828,29.690001
+Italy,1829,29.690001
+Italy,1830,29.690001
+Italy,1831,29.690001
+Italy,1832,29.690001
+Italy,1833,29.690001
+Italy,1834,29.690001
+Italy,1835,29.690001
+Italy,1836,29.690001
+Italy,1837,29.690001
+Italy,1838,29.690001
+Italy,1839,29.690001
+Italy,1840,29.690001
+Italy,1841,29.690001
+Italy,1842,29.690001
+Italy,1843,29.690001
+Italy,1844,29.690001
+Italy,1845,29.690001
+Italy,1846,29.690001
+Italy,1847,29.690001
+Italy,1848,29.690001
+Italy,1849,29.690001
+Italy,1850,29.690001
+Italy,1851,29.690001
+Italy,1852,29.690001
+Italy,1853,29.690001
+Italy,1854,29.690001
+Italy,1855,29.690001
+Italy,1856,29.690001
+Italy,1857,29.690001
+Italy,1858,29.690001
+Italy,1859,29.690001
+Italy,1860,29.690001
+Italy,1861,29.690001
+Italy,1862,29.690001
+Italy,1863,29.690001
+Italy,1864,29.690001
+Italy,1865,29.690001
+Italy,1866,29.690001
+Italy,1867,29.690001
+Italy,1868,29.690001
+Italy,1869,29.690001
+Italy,1870,29.690001
+Italy,1871,29.690001
+Italy,1872,29.690001
+Italy,1873,31.6
+Italy,1874,31.75
+Italy,1875,31.309999
+Italy,1876,33.599998
+Italy,1877,34.880001
+Italy,1878,34.32
+Italy,1879,33.950001
+Italy,1880,32.740002
+Italy,1881,34.200001
+Italy,1882,34.290001
+Italy,1883,35.18
+Italy,1884,36.599998
+Italy,1885,36.830002
+Italy,1886,35.099998
+Italy,1887,35.970001
+Italy,1888,36.919998
+Italy,1889,39.049999
+Italy,1890,38.5
+Italy,1891,38.459999
+Italy,1892,38.84
+Italy,1893,39.790001
+Italy,1894,39.91
+Italy,1895,39.610001
+Italy,1896,40.700001
+Italy,1897,43.290001
+Italy,1898,42.330002
+Italy,1899,43.669998
+Italy,1900,41.66
+Italy,1901,43.52
+Italy,1902,42.990002
+Italy,1903,43.150002
+Italy,1904,44.43
+Italy,1905,43.939999
+Italy,1906,45.09
+Italy,1907,45.450001
+Italy,1908,43.189999
+Italy,1909,44.669998
+Italy,1910,46.75
+Italy,1911,44.77
+Italy,1912,48.98
+Italy,1913,48.459999
+Italy,1914,49.889999
+Italy,1915,42.34
+Italy,1916,39.27
+Italy,1917,37.689999
+Italy,1918,25.620001
+Italy,1919,42.099998
+Italy,1920,45.509998
+Italy,1921,49.25
+Italy,1922,50.009998
+Italy,1923,51.450001
+Italy,1924,51.509998
+Italy,1925,51.310001
+Italy,1926,50.959999
+Italy,1927,52.580002
+Italy,1928,52.669998
+Italy,1929,52.290001
+Italy,1930,55.200001
+Italy,1931,54.779999
+Italy,1932,54.77
+Italy,1933,56.290001
+Italy,1934,56.860001
+Italy,1935,56.220001
+Italy,1936,56.75
+Italy,1937,55.490002
+Italy,1938,56.130001
+Italy,1939,57.639999
+Italy,1940,56.950001
+Italy,1941,54.619999
+Italy,1942,52.450001
+Italy,1943,49.189999
+Italy,1944,52.34
+Italy,1945,54.779999
+Italy,1946,58.970001
+Italy,1947,61.18
+Italy,1948,63.450001
+Italy,1949,64.110001
+Italy,1950,65.769997
+Italy,1951,65.309998
+Italy,1952,65.940002
+Italy,1953,66.580002
+Italy,1954,67.900002
+Italy,1955,68.25
+Italy,1956,67.639999
+Italy,1957,67.809998
+Italy,1958,68.870003
+Italy,1959,69.32
+Italy,1960,69.209999
+Italy,1961,69.849998
+Italy,1962,69.239998
+Italy,1963,69.349998
+Italy,1964,70.400002
+Italy,1965,70.269997
+Italy,1966,71.019997
+Italy,1967,71.059998
+Italy,1968,70.879997
+Italy,1969,70.900002
+Italy,1970,71.660004
+Italy,1971,71.910004
+Italy,1972,72.190002
+Italy,1973,72.129997
+Italy,1974,72.849998
+Italy,1975,72.760002
+Italy,1976,73.110001
+Italy,1977,73.480003
+Italy,1978,73.830002
+Italy,1979,74.160004
+Italy,1980,74.120003
+Italy,1981,74.510002
+Italy,1982,74.980003
+Italy,1983,74.800003
+Italy,1984,75.559998
+Italy,1985,75.669998
+Italy,1986,76
+Italy,1987,76.419998
+Italy,1988,76.599998
+Italy,1989,77
+Italy,1990,77.019997
+Italy,1991,77.190002
+Italy,1992,77.410004
+Italy,1993,77.620003
+Italy,1994,77.849998
+Italy,1995,78.120003
+Italy,1996,78.330002
+Italy,1997,78.690002
+Italy,1998,78.970001
+Italy,1999,79.269997
+Italy,2000,79.599998
+Italy,2001,79.93
+Italy,2002,80.169998
+Italy,2003,80.269997
+Italy,2004,80.720001
+Italy,2005,80.910004
+Italy,2006,81.089996
+Italy,2007,81.269997
+Italy,2008,81.459999
+Italy,2009,81.57
+Italy,2010,81.779999
+Italy,2011,81.919998
+Italy,2012,82.019997
+Italy,2013,82.239998
+Italy,2014,82.290001
+Italy,2015,82.330002
+Italy,2016,82.339996
+Japan,1800,36.400002
+Japan,1801,36.400398
+Japan,1802,36.400795
+Japan,1803,36.401192
+Japan,1804,36.401588
+Japan,1805,36.401989
+Japan,1806,36.402386
+Japan,1807,36.402782
+Japan,1808,36.403179
+Japan,1809,36.40358
+Japan,1810,36.403976
+Japan,1811,36.404373
+Japan,1812,36.40477
+Japan,1813,36.405167
+Japan,1814,36.405567
+Japan,1815,36.405964
+Japan,1816,36.406361
+Japan,1817,36.406757
+Japan,1818,36.407154
+Japan,1819,36.407555
+Japan,1820,36.407951
+Japan,1821,36.408348
+Japan,1822,36.408745
+Japan,1823,36.409142
+Japan,1824,36.409542
+Japan,1825,36.409939
+Japan,1826,36.410336
+Japan,1827,36.410732
+Japan,1828,36.411133
+Japan,1829,36.41153
+Japan,1830,36.411926
+Japan,1831,36.412323
+Japan,1832,36.41272
+Japan,1833,36.41312
+Japan,1834,36.413517
+Japan,1835,36.413914
+Japan,1836,36.41431
+Japan,1837,36.414707
+Japan,1838,36.415108
+Japan,1839,36.415504
+Japan,1840,36.415901
+Japan,1841,36.416298
+Japan,1842,36.416698
+Japan,1843,36.417095
+Japan,1844,36.417492
+Japan,1845,36.417889
+Japan,1846,36.418285
+Japan,1847,36.418686
+Japan,1848,36.419083
+Japan,1849,36.419479
+Japan,1850,36.419876
+Japan,1851,36.420273
+Japan,1852,36.420673
+Japan,1853,36.42107
+Japan,1854,36.421467
+Japan,1855,36.421864
+Japan,1856,36.42226
+Japan,1857,36.422661
+Japan,1858,36.423058
+Japan,1859,36.423454
+Japan,1860,36.423851
+Japan,1861,36.424252
+Japan,1862,36.424648
+Japan,1863,36.425045
+Japan,1864,36.425442
+Japan,1865,36.425838
+Japan,1866,36.459202
+Japan,1867,36.492561
+Japan,1868,36.525921
+Japan,1869,36.55928
+Japan,1870,36.59264
+Japan,1871,36.633999
+Japan,1872,36.675362
+Japan,1873,36.716721
+Japan,1874,36.75808
+Japan,1875,36.799438
+Japan,1876,36.846848
+Japan,1877,36.894257
+Japan,1878,36.941666
+Japan,1879,36.989071
+Japan,1880,37.03648
+Japan,1881,37.094864
+Japan,1882,37.153248
+Japan,1883,37.211632
+Japan,1884,37.270016
+Japan,1885,37.3284
+Japan,1886,37.397858
+Japan,1887,37.467312
+Japan,1888,37.53677
+Japan,1889,37.606224
+Japan,1890,37.675678
+Japan,1891,37.760113
+Japan,1892,37.844543
+Japan,1893,37.928974
+Japan,1894,38.013409
+Japan,1895,38.097839
+Japan,1896,38.198273
+Japan,1897,38.298702
+Japan,1898,38.399136
+Japan,1899,38.499569
+Japan,1900,38.599998
+Japan,1901,38.724384
+Japan,1902,38.848766
+Japan,1903,38.973152
+Japan,1904,39.097534
+Japan,1905,39.22192
+Japan,1906,39.372257
+Japan,1907,39.522591
+Japan,1908,39.672928
+Japan,1909,39.823265
+Japan,1910,39.973598
+Japan,1911,40.158768
+Japan,1912,40.343937
+Japan,1913,40.529102
+Japan,1914,40.714272
+Japan,1915,40.899441
+Japan,1916,41.128414
+Japan,1917,41.357391
+Japan,1918,32.69595
+Japan,1919,41.815346
+Japan,1920,42.044319
+Japan,1921,42.330318
+Japan,1922,42.616322
+Japan,1923,43.22493
+Japan,1924,43.833534
+Japan,1925,44.442142
+Japan,1926,45.050751
+Japan,1927,45.659359
+Japan,1928,45.98225
+Japan,1929,46.305141
+Japan,1930,46.628029
+Japan,1931,46.95092
+Japan,1932,47.273811
+Japan,1933,47.596699
+Japan,1934,47.91959
+Japan,1935,48.242481
+Japan,1936,48.621239
+Japan,1937,49
+Japan,1938,49
+Japan,1939,49
+Japan,1940,49
+Japan,1941,48.75
+Japan,1942,48.5
+Japan,1943,46
+Japan,1944,40
+Japan,1945,30.5368
+Japan,1946,46.5
+Japan,1947,51.75
+Japan,1948,56.889999
+Japan,1949,57.759998
+Japan,1950,59.299999
+Japan,1951,60.990002
+Japan,1952,63.029999
+Japan,1953,63.369999
+Japan,1954,64.610001
+Japan,1955,65.769997
+Japan,1956,65.629997
+Japan,1957,65.5
+Japan,1958,67.120003
+Japan,1959,67.510002
+Japan,1960,67.800003
+Japan,1961,68.449997
+Japan,1962,68.730003
+Japan,1963,69.809998
+Japan,1964,70.279999
+Japan,1965,70.330002
+Japan,1966,71.139999
+Japan,1967,71.43
+Japan,1968,71.75
+Japan,1969,71.980003
+Japan,1970,72.07
+Japan,1971,72.889999
+Japan,1972,73.419998
+Japan,1973,73.480003
+Japan,1974,73.910004
+Japan,1975,74.410004
+Japan,1976,74.809998
+Japan,1977,75.379997
+Japan,1978,75.699997
+Japan,1979,76.209999
+Japan,1980,76.190002
+Japan,1981,76.599998
+Japan,1982,77.110001
+Japan,1983,77.139999
+Japan,1984,77.540001
+Japan,1985,77.839996
+Japan,1986,78.260002
+Japan,1987,78.669998
+Japan,1988,78.580002
+Japan,1989,79.010002
+Japan,1990,78.940002
+Japan,1991,79.139999
+Japan,1992,79.290001
+Japan,1993,79.459999
+Japan,1994,79.699997
+Japan,1995,79.75
+Japan,1996,80.169998
+Japan,1997,80.389999
+Japan,1998,80.550003
+Japan,1999,80.720001
+Japan,2000,81.029999
+Japan,2001,81.309998
+Japan,2002,81.559998
+Japan,2003,81.75
+Japan,2004,81.93
+Japan,2005,82.050003
+Japan,2006,82.239998
+Japan,2007,82.410004
+Japan,2008,82.57
+Japan,2009,82.769997
+Japan,2010,82.910004
+Japan,2011,82.660004
+Japan,2012,83.230003
+Japan,2013,83.440002
+Japan,2014,83.690002
+Japan,2015,83.830002
+Japan,2016,83.940002
+Mexico,1800,26.9
+Mexico,1801,26.9
+Mexico,1802,26.9
+Mexico,1803,26.9
+Mexico,1804,26.9
+Mexico,1805,26.9
+Mexico,1806,26.9
+Mexico,1807,26.9
+Mexico,1808,26.9
+Mexico,1809,26.9
+Mexico,1810,26.9
+Mexico,1811,26.9
+Mexico,1812,26.9
+Mexico,1813,26.9
+Mexico,1814,26.9
+Mexico,1815,26.9
+Mexico,1816,26.9
+Mexico,1817,26.9
+Mexico,1818,26.9
+Mexico,1819,26.9
+Mexico,1820,26.9
+Mexico,1821,26.9
+Mexico,1822,26.9
+Mexico,1823,26.9
+Mexico,1824,26.9
+Mexico,1825,26.9
+Mexico,1826,26.9
+Mexico,1827,26.9
+Mexico,1828,26.9
+Mexico,1829,26.9
+Mexico,1830,26.9
+Mexico,1831,26.9
+Mexico,1832,26.9
+Mexico,1833,26.9
+Mexico,1834,26.9
+Mexico,1835,26.9
+Mexico,1836,26.9
+Mexico,1837,26.9
+Mexico,1838,26.9
+Mexico,1839,26.9
+Mexico,1840,26.9
+Mexico,1841,26.9
+Mexico,1842,26.9
+Mexico,1843,26.9
+Mexico,1844,26.9
+Mexico,1845,26.9
+Mexico,1846,26.9
+Mexico,1847,26.9
+Mexico,1848,26.9
+Mexico,1849,26.9
+Mexico,1850,26.9
+Mexico,1851,26.9
+Mexico,1852,26.9
+Mexico,1853,26.9
+Mexico,1854,26.9
+Mexico,1855,26.9
+Mexico,1856,26.9
+Mexico,1857,26.9
+Mexico,1858,26.9
+Mexico,1859,26.9
+Mexico,1860,26.9
+Mexico,1861,26.9
+Mexico,1862,26.9
+Mexico,1863,26.9
+Mexico,1864,26.9
+Mexico,1865,26.9
+Mexico,1866,26.9
+Mexico,1867,26.9
+Mexico,1868,26.9
+Mexico,1869,26.9
+Mexico,1870,26.9
+Mexico,1871,26.9
+Mexico,1872,26.9
+Mexico,1873,26.9
+Mexico,1874,26.9
+Mexico,1875,26.9
+Mexico,1876,26.9
+Mexico,1877,26.9
+Mexico,1878,26.9
+Mexico,1879,26.9
+Mexico,1880,26.9
+Mexico,1881,26.9
+Mexico,1882,26.9
+Mexico,1883,26.9
+Mexico,1884,26.9
+Mexico,1885,26.9
+Mexico,1886,26.9
+Mexico,1887,26.9
+Mexico,1888,26.9
+Mexico,1889,26.9
+Mexico,1890,26.9
+Mexico,1891,25.696667
+Mexico,1892,24.493334
+Mexico,1893,23.290001
+Mexico,1894,26.620001
+Mexico,1895,29.52
+Mexico,1896,28.799999
+Mexico,1897,26.24
+Mexico,1898,27.030001
+Mexico,1899,24.98
+Mexico,1900,27.58
+Mexico,1901,26.65
+Mexico,1902,28.370001
+Mexico,1903,28.68
+Mexico,1904,29.09
+Mexico,1905,26.799999
+Mexico,1906,27.879999
+Mexico,1907,27.969999
+Mexico,1908,28.719999
+Mexico,1909,29.209999
+Mexico,1910,27.41
+Mexico,1911,27.842501
+Mexico,1912,28.275
+Mexico,1913,28.7075
+Mexico,1914,29.139999
+Mexico,1915,29.5725
+Mexico,1916,30.004999
+Mexico,1917,30.4375
+Mexico,1918,18.186424
+Mexico,1919,31.3025
+Mexico,1920,31.735001
+Mexico,1921,32.1675
+Mexico,1922,32.599998
+Mexico,1923,33.5
+Mexico,1924,32.799999
+Mexico,1925,32.099998
+Mexico,1926,34.200001
+Mexico,1927,40.299999
+Mexico,1928,34.5
+Mexico,1929,35.400002
+Mexico,1930,36.200001
+Mexico,1931,37.700001
+Mexico,1932,38.400002
+Mexico,1933,37.299999
+Mexico,1934,38.200001
+Mexico,1935,40.400002
+Mexico,1936,38.299999
+Mexico,1937,36.799999
+Mexico,1938,39.400002
+Mexico,1939,45.5
+Mexico,1940,39.200001
+Mexico,1941,42.599998
+Mexico,1942,39.799999
+Mexico,1943,42.799999
+Mexico,1944,43.200001
+Mexico,1945,44.200001
+Mexico,1946,44.799999
+Mexico,1947,46.299999
+Mexico,1948,48.299999
+Mexico,1949,45.799999
+Mexico,1950,48.556
+Mexico,1951,49.115002
+Mexico,1952,50.209999
+Mexico,1953,51.254002
+Mexico,1954,52.247002
+Mexico,1955,53.189999
+Mexico,1956,54.081001
+Mexico,1957,54.918999
+Mexico,1958,55.702
+Mexico,1959,56.424
+Mexico,1960,57.083
+Mexico,1961,57.674
+Mexico,1962,58.199001
+Mexico,1963,58.661999
+Mexico,1964,59.076
+Mexico,1965,59.453999
+Mexico,1966,59.813999
+Mexico,1967,60.172001
+Mexico,1968,60.542999
+Mexico,1969,60.938999
+Mexico,1970,61.368999
+Mexico,1971,61.835999
+Mexico,1972,62.333
+Mexico,1973,62.851002
+Mexico,1974,63.383999
+Mexico,1975,63.928001
+Mexico,1976,64.473999
+Mexico,1977,65.015999
+Mexico,1978,65.547997
+Mexico,1979,66.065002
+Mexico,1980,66.563004
+Mexico,1981,67.041
+Mexico,1982,67.502998
+Mexico,1983,67.950996
+Mexico,1984,68.387001
+Mexico,1985,68.811996
+Mexico,1986,69.227997
+Mexico,1987,69.637001
+Mexico,1988,70.040001
+Mexico,1989,70.440002
+Mexico,1990,71.510002
+Mexico,1991,71.879997
+Mexico,1992,72.089996
+Mexico,1993,72.300003
+Mexico,1994,72.620003
+Mexico,1995,72.849998
+Mexico,1996,73.220001
+Mexico,1997,73.459999
+Mexico,1998,73.709999
+Mexico,1999,74.129997
+Mexico,2000,74.610001
+Mexico,2001,74.870003
+Mexico,2002,74.889999
+Mexico,2003,74.93
+Mexico,2004,75.220001
+Mexico,2005,75.209999
+Mexico,2006,75.459999
+Mexico,2007,75.660004
+Mexico,2008,75.440002
+Mexico,2009,75.349998
+Mexico,2010,75.440002
+Mexico,2011,75.720001
+Mexico,2012,75.879997
+Mexico,2013,75.790001
+Mexico,2014,75.900002
+Mexico,2015,76.190002
+Mexico,2016,76.379997
+Russia,1800,29.573458
+Russia,1801,29.573458
+Russia,1802,29.573458
+Russia,1803,29.573458
+Russia,1804,29.573458
+Russia,1805,29.573458
+Russia,1806,29.573458
+Russia,1807,29.573458
+Russia,1808,29.573458
+Russia,1809,29.573458
+Russia,1810,29.573458
+Russia,1811,29.573458
+Russia,1812,29.573458
+Russia,1813,29.573458
+Russia,1814,29.573458
+Russia,1815,29.573458
+Russia,1816,29.573458
+Russia,1817,29.573458
+Russia,1818,29.573458
+Russia,1819,29.573458
+Russia,1820,29.573458
+Russia,1821,29.573458
+Russia,1822,29.573458
+Russia,1823,29.573458
+Russia,1824,29.573458
+Russia,1825,29.573458
+Russia,1826,29.573458
+Russia,1827,29.573458
+Russia,1828,29.573458
+Russia,1829,29.573458
+Russia,1830,29.573458
+Russia,1831,29.573458
+Russia,1832,29.573458
+Russia,1833,29.573458
+Russia,1834,29.573458
+Russia,1835,29.573458
+Russia,1836,29.573458
+Russia,1837,29.573458
+Russia,1838,29.573458
+Russia,1839,29.573458
+Russia,1840,29.573458
+Russia,1841,29.573458
+Russia,1842,29.573458
+Russia,1843,29.573458
+Russia,1844,29.573458
+Russia,1845,29.573458
+Russia,1846,29.573458
+Russia,1847,29.573458
+Russia,1848,18
+Russia,1849,29.573458
+Russia,1850,29.573458
+Russia,1851,29.573458
+Russia,1852,29.573458
+Russia,1853,29.5
+Russia,1854,27.5
+Russia,1855,27.5
+Russia,1856,29
+Russia,1857,29.573458
+Russia,1858,29.573458
+Russia,1859,29.573458
+Russia,1860,29.573458
+Russia,1861,29.573458
+Russia,1862,29.573458
+Russia,1863,29.573458
+Russia,1864,29.573458
+Russia,1865,29.573458
+Russia,1866,29.573458
+Russia,1867,29.573458
+Russia,1868,27.851233
+Russia,1869,27.934912
+Russia,1870,31.120827
+Russia,1871,28.103025
+Russia,1872,25.916433
+Russia,1873,29.484869
+Russia,1874,30.474104
+Russia,1875,31.120827
+Russia,1876,30.93466
+Russia,1877,31.308113
+Russia,1878,27.767805
+Russia,1879,30.841995
+Russia,1880,30.201067
+Russia,1881,32.164948
+Russia,1882,26.705706
+Russia,1883,29.045897
+Russia,1884,32.749157
+Russia,1885,30.841995
+Russia,1886,34.256531
+Russia,1887,33.244099
+Russia,1888,33.144516
+Russia,1889,31.027603
+Russia,1890,29.930477
+Russia,1891,26.387152
+Russia,1892,21.261061
+Russia,1893,27.601696
+Russia,1894,28.103025
+Russia,1895,26.947142
+Russia,1896,28.27215
+Russia,1897,30.474104
+Russia,1898,27.934912
+Russia,1899,31.591158
+Russia,1900,30.749607
+Russia,1901,29.045897
+Russia,1902,29.84082
+Russia,1903,31.781273
+Russia,1904,32.164948
+Russia,1905,30.474104
+Russia,1906,31.972534
+Russia,1907,33.645432
+Russia,1908,33.645432
+Russia,1909,32.358517
+Russia,1910,31.402178
+Russia,1911,35.088634
+Russia,1912,35.512234
+Russia,1913,33.343979
+Russia,1914,33
+Russia,1915,31.5
+Russia,1916,31.5
+Russia,1917,29
+Russia,1918,23
+Russia,1919,25
+Russia,1920,20.5
+Russia,1921,23.799999
+Russia,1922,24.700001
+Russia,1923,33.599998
+Russia,1924,36.099998
+Russia,1925,35.200001
+Russia,1926,38.400002
+Russia,1927,37.5
+Russia,1928,38.900002
+Russia,1929,37.400002
+Russia,1930,36.5
+Russia,1931,35
+Russia,1932,32.799999
+Russia,1933,17.35
+Russia,1934,38.200001
+Russia,1935,39.599998
+Russia,1936,41.099998
+Russia,1937,39.900002
+Russia,1938,41.400002
+Russia,1939,43.599998
+Russia,1940,41.200001
+Russia,1941,23
+Russia,1942,18
+Russia,1943,16
+Russia,1944,27
+Russia,1945,34
+Russia,1946,46.099998
+Russia,1947,40.400002
+Russia,1948,52.200001
+Russia,1949,55
+Russia,1950,57.299999
+Russia,1951,57.799999
+Russia,1952,58.200001
+Russia,1953,59
+Russia,1954,61
+Russia,1955,63.400002
+Russia,1956,64.900002
+Russia,1957,64
+Russia,1958,66.900002
+Russia,1959,67.650002
+Russia,1960,68.669998
+Russia,1961,68.919998
+Russia,1962,68.580002
+Russia,1963,69.050003
+Russia,1964,69.849998
+Russia,1965,69.440002
+Russia,1966,69.510002
+Russia,1967,69.300003
+Russia,1968,69.260002
+Russia,1969,68.739998
+Russia,1970,68.860001
+Russia,1971,69.120003
+Russia,1972,69.019997
+Russia,1973,69
+Russia,1974,68.989998
+Russia,1975,68.349998
+Russia,1976,68.099998
+Russia,1977,67.970001
+Russia,1978,68.010002
+Russia,1979,67.730003
+Russia,1980,67.699997
+Russia,1981,67.919998
+Russia,1982,68.379997
+Russia,1983,68.150002
+Russia,1984,67.669998
+Russia,1985,68.330002
+Russia,1986,69.949997
+Russia,1987,69.959999
+Russia,1988,69.809998
+Russia,1989,69.730003
+Russia,1990,69.169998
+Russia,1991,68.959999
+Russia,1992,67.75
+Russia,1993,65.129997
+Russia,1994,63.75
+Russia,1995,64.339996
+Russia,1996,65.629997
+Russia,1997,66.800003
+Russia,1998,67.089996
+Russia,1999,65.870003
+Russia,2000,65.279999
+Russia,2001,65.279999
+Russia,2002,65.129997
+Russia,2003,65.18
+Russia,2004,65.459999
+Russia,2005,65.610001
+Russia,2006,66.849998
+Russia,2007,67.559998
+Russia,2008,67.870003
+Russia,2009,68.849998
+Russia,2010,69.220001
+Russia,2011,69.860001
+Russia,2012,70.449997
+Russia,2013,70.760002
+Russia,2014,70.860001
+Russia,2015,70.830002
+Russia,2016,70.870003
+Spain,1800,29.5
+Spain,1801,29.5
+Spain,1802,29.5
+Spain,1803,29.5
+Spain,1804,29.5
+Spain,1805,29.5
+Spain,1806,29.5
+Spain,1807,29.5
+Spain,1808,29.5
+Spain,1809,29.5
+Spain,1810,29.5
+Spain,1811,29.5
+Spain,1812,29.5
+Spain,1813,29.5
+Spain,1814,29.5
+Spain,1815,29.5
+Spain,1816,29.5
+Spain,1817,29.5
+Spain,1818,29.5
+Spain,1819,29.5
+Spain,1820,29.5
+Spain,1821,29.5
+Spain,1822,29.5
+Spain,1823,29.5
+Spain,1824,29.5
+Spain,1825,29.5
+Spain,1826,29.5
+Spain,1827,29.5
+Spain,1828,29.5
+Spain,1829,29.5
+Spain,1830,29.5
+Spain,1831,29.5
+Spain,1832,29.5
+Spain,1833,29.5
+Spain,1834,29.5
+Spain,1835,29.5
+Spain,1836,29.5
+Spain,1837,29.5
+Spain,1838,29.5
+Spain,1839,29.5
+Spain,1840,29.5
+Spain,1841,29.5
+Spain,1842,29.5
+Spain,1843,29.5
+Spain,1844,29.5
+Spain,1845,29.5
+Spain,1846,29.5
+Spain,1847,29.5
+Spain,1848,29.5
+Spain,1849,29.5
+Spain,1850,29.5
+Spain,1851,29.5
+Spain,1852,29.5
+Spain,1853,29.5
+Spain,1854,29.5
+Spain,1855,29.5
+Spain,1856,29.5
+Spain,1857,29.5
+Spain,1858,29.5
+Spain,1859,29.5
+Spain,1860,29.5
+Spain,1861,29.5
+Spain,1862,29.5
+Spain,1863,29.5
+Spain,1864,29.5
+Spain,1865,29.5
+Spain,1866,29.5
+Spain,1867,29.5
+Spain,1868,29.5
+Spain,1869,29.5
+Spain,1870,29.5
+Spain,1871,29.5
+Spain,1872,29.5
+Spain,1873,29.5
+Spain,1874,29.5
+Spain,1875,29.5
+Spain,1876,29.5
+Spain,1877,29.5
+Spain,1878,29.5
+Spain,1879,29.5
+Spain,1880,29.5
+Spain,1881,29.5
+Spain,1882,29.5
+Spain,1883,29.76
+Spain,1884,30.02
+Spain,1885,30.280001
+Spain,1886,30.540001
+Spain,1887,30.799999
+Spain,1888,31.059999
+Spain,1889,31.32
+Spain,1890,31.58
+Spain,1891,31.84
+Spain,1892,32.099998
+Spain,1893,32.4375
+Spain,1894,32.775002
+Spain,1895,33.112499
+Spain,1896,33.450001
+Spain,1897,33.787498
+Spain,1898,34.125
+Spain,1899,34.462502
+Spain,1900,34.799999
+Spain,1901,35.631248
+Spain,1902,36.462502
+Spain,1903,37.293751
+Spain,1904,38.125
+Spain,1905,38.956249
+Spain,1906,39.787498
+Spain,1907,40.618752
+Spain,1908,41.450001
+Spain,1909,41.060001
+Spain,1910,40.919998
+Spain,1911,39.799999
+Spain,1912,43.529999
+Spain,1913,42.560001
+Spain,1914,42.84
+Spain,1915,43.049999
+Spain,1916,43.98
+Spain,1917,42.630001
+Spain,1918,30.290001
+Spain,1919,41.119999
+Spain,1920,39.310001
+Spain,1921,42.029999
+Spain,1922,44.209999
+Spain,1923,44.75
+Spain,1924,46.299999
+Spain,1925,46.950001
+Spain,1926,47.759998
+Spain,1927,48.490002
+Spain,1928,48.669998
+Spain,1929,49.490002
+Spain,1930,49.34
+Spain,1931,49.25
+Spain,1932,51.200001
+Spain,1933,51.599998
+Spain,1934,52.240002
+Spain,1935,52.720001
+Spain,1936,50.900002
+Spain,1937,47.220001
+Spain,1938,47.529999
+Spain,1939,47.09
+Spain,1940,48.389999
+Spain,1941,47.16
+Spain,1942,52.48
+Spain,1943,54.849998
+Spain,1944,56.25
+Spain,1945,57.84
+Spain,1946,57.57
+Spain,1947,59.330002
+Spain,1948,61.27
+Spain,1949,61.02
+Spain,1950,61.869999
+Spain,1951,61.52
+Spain,1952,64.940002
+Spain,1953,65.809998
+Spain,1954,67.010002
+Spain,1955,66.779999
+Spain,1956,66.82
+Spain,1957,66.660004
+Spain,1958,68.849998
+Spain,1959,68.769997
+Spain,1960,69.269997
+Spain,1961,69.660004
+Spain,1962,69.690002
+Spain,1963,69.849998
+Spain,1964,70.580002
+Spain,1965,70.989998
+Spain,1966,71.25
+Spain,1967,71.440002
+Spain,1968,71.730003
+Spain,1969,71.260002
+Spain,1970,72.239998
+Spain,1971,71.849998
+Spain,1972,73.059998
+Spain,1973,72.839996
+Spain,1974,73.220001
+Spain,1975,73.550003
+Spain,1976,73.870003
+Spain,1977,74.389999
+Spain,1978,74.580002
+Spain,1979,75.120003
+Spain,1980,75.599998
+Spain,1981,75.739998
+Spain,1982,76.300003
+Spain,1983,76.080002
+Spain,1984,76.459999
+Spain,1985,76.419998
+Spain,1986,76.669998
+Spain,1987,76.900002
+Spain,1988,76.910004
+Spain,1989,76.980003
+Spain,1990,77.120003
+Spain,1991,77.300003
+Spain,1992,77.519997
+Spain,1993,77.68
+Spain,1994,77.940002
+Spain,1995,78.150002
+Spain,1996,78.360001
+Spain,1997,78.699997
+Spain,1998,78.919998
+Spain,1999,79.110001
+Spain,2000,79.400002
+Spain,2001,79.669998
+Spain,2002,79.830002
+Spain,2003,79.980003
+Spain,2004,80.25
+Spain,2005,80.480003
+Spain,2006,80.830002
+Spain,2007,81.07
+Spain,2008,81.360001
+Spain,2009,81.68
+Spain,2010,81.970001
+Spain,2011,82.18
+Spain,2012,82.32
+Spain,2013,82.629997
+Spain,2014,82.839996
+Spain,2015,82.910004
+Spain,2016,82.970001
+Switzerland,1800,38
+Switzerland,1801,38
+Switzerland,1802,38
+Switzerland,1803,38
+Switzerland,1804,38
+Switzerland,1805,38
+Switzerland,1806,38
+Switzerland,1807,38
+Switzerland,1808,38
+Switzerland,1809,38
+Switzerland,1810,38
+Switzerland,1811,38
+Switzerland,1812,38
+Switzerland,1813,38
+Switzerland,1814,38
+Switzerland,1815,38
+Switzerland,1816,38
+Switzerland,1817,38
+Switzerland,1818,38
+Switzerland,1819,38
+Switzerland,1820,38
+Switzerland,1821,38
+Switzerland,1822,38
+Switzerland,1823,38
+Switzerland,1824,38
+Switzerland,1825,38
+Switzerland,1826,38
+Switzerland,1827,38
+Switzerland,1828,38
+Switzerland,1829,38
+Switzerland,1830,38
+Switzerland,1831,38
+Switzerland,1832,38
+Switzerland,1833,38
+Switzerland,1834,38
+Switzerland,1835,38
+Switzerland,1836,38
+Switzerland,1837,38
+Switzerland,1838,38
+Switzerland,1839,38
+Switzerland,1840,38
+Switzerland,1841,38
+Switzerland,1842,38
+Switzerland,1843,38
+Switzerland,1844,38
+Switzerland,1845,38
+Switzerland,1846,38
+Switzerland,1847,38
+Switzerland,1848,38
+Switzerland,1849,38
+Switzerland,1850,38
+Switzerland,1851,38
+Switzerland,1852,38
+Switzerland,1853,38
+Switzerland,1854,38
+Switzerland,1855,38
+Switzerland,1856,38
+Switzerland,1857,38
+Switzerland,1858,38
+Switzerland,1859,38
+Switzerland,1860,38
+Switzerland,1861,38
+Switzerland,1862,38
+Switzerland,1863,38
+Switzerland,1864,38
+Switzerland,1865,38
+Switzerland,1866,38
+Switzerland,1867,38
+Switzerland,1868,38
+Switzerland,1869,38
+Switzerland,1870,38
+Switzerland,1871,38
+Switzerland,1872,38
+Switzerland,1873,38
+Switzerland,1874,38
+Switzerland,1875,38
+Switzerland,1876,40.099998
+Switzerland,1877,40.009998
+Switzerland,1878,40.470001
+Switzerland,1879,41.810001
+Switzerland,1880,42.41
+Switzerland,1881,41.869999
+Switzerland,1882,42.98
+Switzerland,1883,44.939999
+Switzerland,1884,45
+Switzerland,1885,43.830002
+Switzerland,1886,44.68
+Switzerland,1887,45.439999
+Switzerland,1888,45.970001
+Switzerland,1889,45.139999
+Switzerland,1890,44.950001
+Switzerland,1891,44.709999
+Switzerland,1892,47.23
+Switzerland,1893,46.07
+Switzerland,1894,45.790001
+Switzerland,1895,46.84
+Switzerland,1896,48.880001
+Switzerland,1897,49.099998
+Switzerland,1898,48.200001
+Switzerland,1899,49.290001
+Switzerland,1900,47.48
+Switzerland,1901,48.939999
+Switzerland,1902,50.41
+Switzerland,1903,50.029999
+Switzerland,1904,49.16
+Switzerland,1905,49.669998
+Switzerland,1906,50.720001
+Switzerland,1907,51.189999
+Switzerland,1908,52.259998
+Switzerland,1909,51.610001
+Switzerland,1910,52.91
+Switzerland,1911,51.720001
+Switzerland,1912,54.419998
+Switzerland,1913,54.209999
+Switzerland,1914,55.130001
+Switzerland,1915,55.950001
+Switzerland,1916,56.59
+Switzerland,1917,55.810001
+Switzerland,1918,46.299999
+Switzerland,1919,54.970001
+Switzerland,1920,54.380001
+Switzerland,1921,57.869999
+Switzerland,1922,58.5
+Switzerland,1923,60.040001
+Switzerland,1924,59.490002
+Switzerland,1925,59.950001
+Switzerland,1926,60.639999
+Switzerland,1927,60.099998
+Switzerland,1928,60.470001
+Switzerland,1929,60.169998
+Switzerland,1930,61.43
+Switzerland,1931,61.240002
+Switzerland,1932,61.23
+Switzerland,1933,62.41
+Switzerland,1934,62.889999
+Switzerland,1935,62.130001
+Switzerland,1936,63.18
+Switzerland,1937,63.509998
+Switzerland,1938,63.849998
+Switzerland,1939,64.010002
+Switzerland,1940,63.580002
+Switzerland,1941,64.980003
+Switzerland,1942,65.650002
+Switzerland,1943,65.839996
+Switzerland,1944,64.879997
+Switzerland,1945,65.419998
+Switzerland,1946,66.07
+Switzerland,1947,66.260002
+Switzerland,1948,67.339996
+Switzerland,1949,67.970001
+Switzerland,1950,68.940002
+Switzerland,1951,68.709999
+Switzerland,1952,69.620003
+Switzerland,1953,69.529999
+Switzerland,1954,70
+Switzerland,1955,70.080002
+Switzerland,1956,70.209999
+Switzerland,1957,70.559998
+Switzerland,1958,71.300003
+Switzerland,1959,71.459999
+Switzerland,1960,71.440002
+Switzerland,1961,71.760002
+Switzerland,1962,71.32
+Switzerland,1963,71.309998
+Switzerland,1964,72.199997
+Switzerland,1965,72.330002
+Switzerland,1966,72.470001
+Switzerland,1967,72.769997
+Switzerland,1968,72.720001
+Switzerland,1969,72.730003
+Switzerland,1970,73.139999
+Switzerland,1971,73.260002
+Switzerland,1972,73.779999
+Switzerland,1973,74.080002
+Switzerland,1974,74.43
+Switzerland,1975,74.82
+Switzerland,1976,74.940002
+Switzerland,1977,75.389999
+Switzerland,1978,75.339996
+Switzerland,1979,75.639999
+Switzerland,1980,75.639999
+Switzerland,1981,75.870003
+Switzerland,1982,76.209999
+Switzerland,1983,76.220001
+Switzerland,1984,76.82
+Switzerland,1985,76.940002
+Switzerland,1986,77.110001
+Switzerland,1987,77.410004
+Switzerland,1988,77.43
+Switzerland,1989,77.620003
+Switzerland,1990,77.489998
+Switzerland,1991,77.639999
+Switzerland,1992,77.93
+Switzerland,1993,78.220001
+Switzerland,1994,78.449997
+Switzerland,1995,78.529999
+Switzerland,1996,78.980003
+Switzerland,1997,79.25
+Switzerland,1998,79.510002
+Switzerland,1999,79.779999
+Switzerland,2000,79.970001
+Switzerland,2001,80.209999
+Switzerland,2002,80.400002
+Switzerland,2003,80.620003
+Switzerland,2004,81.029999
+Switzerland,2005,81.279999
+Switzerland,2006,81.480003
+Switzerland,2007,81.690002
+Switzerland,2008,81.919998
+Switzerland,2009,82.059998
+Switzerland,2010,82.300003
+Switzerland,2011,82.540001
+Switzerland,2012,82.660004
+Switzerland,2013,82.800003
+Switzerland,2014,83.089996
+Switzerland,2015,83.160004
+Switzerland,2016,83.18
+United Kingdom,1800,38.649761
+United Kingdom,1801,37.350822
+United Kingdom,1802,38.615601
+United Kingdom,1803,37.316845
+United Kingdom,1804,41.436916
+United Kingdom,1805,42.317261
+United Kingdom,1806,43.216114
+United Kingdom,1807,40.04594
+United Kingdom,1808,40.347794
+United Kingdom,1809,41.742203
+United Kingdom,1810,38.347382
+United Kingdom,1811,39.887272
+United Kingdom,1812,41.826324
+United Kingdom,1813,43.038368
+United Kingdom,1814,40.241531
+United Kingdom,1815,41.131779
+United Kingdom,1816,39.938316
+United Kingdom,1817,41.040718
+United Kingdom,1818,39.847767
+United Kingdom,1819,40.51926
+United Kingdom,1820,41.312477
+United Kingdom,1821,41.780403
+United Kingdom,1822,41.349724
+United Kingdom,1823,40.048023
+United Kingdom,1824,39.192757
+United Kingdom,1825,39.939877
+United Kingdom,1826,39.830349
+United Kingdom,1827,41.138859
+United Kingdom,1828,42.032665
+United Kingdom,1829,41.558071
+United Kingdom,1830,43.018311
+United Kingdom,1831,40.843559
+United Kingdom,1832,40.163628
+United Kingdom,1833,41.349632
+United Kingdom,1834,40.783878
+United Kingdom,1835,41.104195
+United Kingdom,1836,41.427021
+United Kingdom,1837,40.203598
+United Kingdom,1838,40.301132
+United Kingdom,1839,40.879307
+United Kingdom,1840,39.927151
+United Kingdom,1841,41.700001
+United Kingdom,1842,41.349998
+United Kingdom,1843,41.860001
+United Kingdom,1844,41.549999
+United Kingdom,1845,42.560001
+United Kingdom,1846,39.959999
+United Kingdom,1847,38.330002
+United Kingdom,1848,39.5
+United Kingdom,1849,37.380001
+United Kingdom,1850,42.799999
+United Kingdom,1851,41.419998
+United Kingdom,1852,40.93
+United Kingdom,1853,40.560001
+United Kingdom,1854,39.34
+United Kingdom,1855,41.029999
+United Kingdom,1856,43.25
+United Kingdom,1857,41.880001
+United Kingdom,1858,40.040001
+United Kingdom,1859,40.84
+United Kingdom,1860,43.009998
+United Kingdom,1861,42.380001
+United Kingdom,1862,42.52
+United Kingdom,1863,40.400002
+United Kingdom,1864,39.970001
+United Kingdom,1865,40.650002
+United Kingdom,1866,40.41
+United Kingdom,1867,42.619999
+United Kingdom,1868,42
+United Kingdom,1869,41.669998
+United Kingdom,1870,40.950001
+United Kingdom,1871,41.310001
+United Kingdom,1872,42.900002
+United Kingdom,1873,43.779999
+United Kingdom,1874,42.130001
+United Kingdom,1875,41.849998
+United Kingdom,1876,43.689999
+United Kingdom,1877,44.700001
+United Kingdom,1878,43.009998
+United Kingdom,1879,44.27
+United Kingdom,1880,43.779999
+United Kingdom,1881,46.110001
+United Kingdom,1882,44.869999
+United Kingdom,1883,45.09
+United Kingdom,1884,44.790001
+United Kingdom,1885,45.759998
+United Kingdom,1886,45.330002
+United Kingdom,1887,45.650002
+United Kingdom,1888,46.810001
+United Kingdom,1889,46.34
+United Kingdom,1890,44.75
+United Kingdom,1891,44.290001
+United Kingdom,1892,45.509998
+United Kingdom,1893,44.869999
+United Kingdom,1894,48.34
+United Kingdom,1895,45.73
+United Kingdom,1896,47.41
+United Kingdom,1897,47.23
+United Kingdom,1898,46.98
+United Kingdom,1899,46.130001
+United Kingdom,1900,46.32
+United Kingdom,1901,47.91
+United Kingdom,1902,49.080002
+United Kingdom,1903,50.43
+United Kingdom,1904,49.110001
+United Kingdom,1905,50.860001
+United Kingdom,1906,50.580002
+United Kingdom,1907,51.439999
+United Kingdom,1908,51.84
+United Kingdom,1909,52.52
+United Kingdom,1910,53.990002
+United Kingdom,1911,51.540001
+United Kingdom,1912,54.549999
+United Kingdom,1913,53.830002
+United Kingdom,1914,51.990002
+United Kingdom,1915,48.200001
+United Kingdom,1916,47.73
+United Kingdom,1917,45.57
+United Kingdom,1918,40.43
+United Kingdom,1919,54.119999
+United Kingdom,1920,56.599998
+United Kingdom,1921,58.349998
+United Kingdom,1922,57.130001
+United Kingdom,1923,59.400002
+United Kingdom,1924,58.169998
+United Kingdom,1925,58.509998
+United Kingdom,1926,59.66
+United Kingdom,1927,59.040001
+United Kingdom,1928,59.990002
+United Kingdom,1929,57.709999
+United Kingdom,1930,60.889999
+United Kingdom,1931,60.110001
+United Kingdom,1932,60.630001
+United Kingdom,1933,60.669998
+United Kingdom,1934,61.400002
+United Kingdom,1935,62.049999
+United Kingdom,1936,61.849998
+United Kingdom,1937,61.880001
+United Kingdom,1938,63.299999
+United Kingdom,1939,63.689999
+United Kingdom,1940,60.970001
+United Kingdom,1941,61.369999
+United Kingdom,1942,63.990002
+United Kingdom,1943,64.010002
+United Kingdom,1944,64.849998
+United Kingdom,1945,65.849998
+United Kingdom,1946,66.470001
+United Kingdom,1947,66.440002
+United Kingdom,1948,68.5
+United Kingdom,1949,68.190002
+United Kingdom,1950,68.699997
+United Kingdom,1951,68.300003
+United Kingdom,1952,69.599998
+United Kingdom,1953,69.870003
+United Kingdom,1954,70.239998
+United Kingdom,1955,70.209999
+United Kingdom,1956,70.480003
+United Kingdom,1957,70.599998
+United Kingdom,1958,70.779999
+United Kingdom,1959,70.879997
+United Kingdom,1960,71.099998
+United Kingdom,1961,70.849998
+United Kingdom,1962,70.919998
+United Kingdom,1963,70.830002
+United Kingdom,1964,71.620003
+United Kingdom,1965,71.610001
+United Kingdom,1966,71.529999
+United Kingdom,1967,72.160004
+United Kingdom,1968,71.790001
+United Kingdom,1969,71.75
+United Kingdom,1970,72
+United Kingdom,1971,72.32
+United Kingdom,1972,72.099998
+United Kingdom,1973,72.309998
+United Kingdom,1974,72.510002
+United Kingdom,1975,72.779999
+United Kingdom,1976,72.760002
+United Kingdom,1977,73.25
+United Kingdom,1978,73.18
+United Kingdom,1979,73.290001
+United Kingdom,1980,73.720001
+United Kingdom,1981,74.059998
+United Kingdom,1982,74.190002
+United Kingdom,1983,74.440002
+United Kingdom,1984,74.830002
+United Kingdom,1985,74.68
+United Kingdom,1986,74.949997
+United Kingdom,1987,75.300003
+United Kingdom,1988,75.410004
+United Kingdom,1989,75.550003
+United Kingdom,1990,75.720001
+United Kingdom,1991,75.940002
+United Kingdom,1992,76.169998
+United Kingdom,1993,76.300003
+United Kingdom,1994,76.550003
+United Kingdom,1995,76.690002
+United Kingdom,1996,76.910004
+United Kingdom,1997,77.139999
+United Kingdom,1998,77.339996
+United Kingdom,1999,77.529999
+United Kingdom,2000,77.839996
+United Kingdom,2001,78.099998
+United Kingdom,2002,78.309998
+United Kingdom,2003,78.449997
+United Kingdom,2004,78.82
+United Kingdom,2005,79.099998
+United Kingdom,2006,79.379997
+United Kingdom,2007,79.639999
+United Kingdom,2008,79.879997
+United Kingdom,2009,80.169998
+United Kingdom,2010,80.389999
+United Kingdom,2011,80.580002
+United Kingdom,2012,80.68
+United Kingdom,2013,80.769997
+United Kingdom,2014,80.82
+United Kingdom,2015,80.860001
+United Kingdom,2016,80.900002
+United States,1800,39.41
+United States,1801,39.41
+United States,1802,39.41
+United States,1803,39.41
+United States,1804,39.41
+United States,1805,39.41
+United States,1806,39.41
+United States,1807,39.41
+United States,1808,39.41
+United States,1809,39.41
+United States,1810,39.41
+United States,1811,39.41
+United States,1812,39.41
+United States,1813,39.41
+United States,1814,39.41
+United States,1815,39.41
+United States,1816,39.41
+United States,1817,39.41
+United States,1818,39.41
+United States,1819,39.41
+United States,1820,39.41
+United States,1821,39.41
+United States,1822,39.41
+United States,1823,39.41
+United States,1824,39.41
+United States,1825,39.41
+United States,1826,39.41
+United States,1827,39.41
+United States,1828,39.41
+United States,1829,39.41
+United States,1830,39.41
+United States,1831,39.41
+United States,1832,39.41
+United States,1833,39.41
+United States,1834,39.41
+United States,1835,39.41
+United States,1836,39.41
+United States,1837,39.41
+United States,1838,39.41
+United States,1839,39.41
+United States,1840,39.41
+United States,1841,39.41
+United States,1842,39.41
+United States,1843,39.41
+United States,1844,39.41
+United States,1845,39.41
+United States,1846,39.41
+United States,1847,39.41
+United States,1848,39.41
+United States,1849,39.41
+United States,1850,39.41
+United States,1851,39.41
+United States,1852,39.41
+United States,1853,39.41
+United States,1854,39.41
+United States,1855,39.41
+United States,1856,39.41
+United States,1857,39.41
+United States,1858,39.41
+United States,1859,39.41
+United States,1860,39.41
+United States,1861,38
+United States,1862,34.5
+United States,1863,34
+United States,1864,31
+United States,1865,38
+United States,1866,39.41
+United States,1867,39.41
+United States,1868,39.41
+United States,1869,39.41
+United States,1870,39.41
+United States,1871,39.41
+United States,1872,39.41
+United States,1873,39.41
+United States,1874,39.41
+United States,1875,39.41
+United States,1876,39.41
+United States,1877,39.41
+United States,1878,39.41
+United States,1879,39.41
+United States,1880,39.41
+United States,1881,39.990002
+United States,1882,40.57
+United States,1883,41.150002
+United States,1884,41.73
+United States,1885,42.310001
+United States,1886,42.889999
+United States,1887,43.470001
+United States,1888,44.049999
+United States,1889,44.630001
+United States,1890,45.209999
+United States,1891,45.581818
+United States,1892,45.953636
+United States,1893,46.325455
+United States,1894,46.697273
+United States,1895,47.069092
+United States,1896,47.44091
+United States,1897,47.812729
+United States,1898,48.184544
+United States,1899,48.556362
+United States,1900,48.928181
+United States,1901,49.299999
+United States,1902,50.5
+United States,1903,50.599998
+United States,1904,49.599998
+United States,1905,50.299999
+United States,1906,50.099998
+United States,1907,50.200001
+United States,1908,51.900002
+United States,1909,52.799999
+United States,1910,51.799999
+United States,1911,53.400002
+United States,1912,54.099998
+United States,1913,53.5
+United States,1914,54.599998
+United States,1915,55.099998
+United States,1916,54.200001
+United States,1917,54
+United States,1918,47.200001
+United States,1919,55.299999
+United States,1920,55.400002
+United States,1921,58.200001
+United States,1922,58.099998
+United States,1923,57.5
+United States,1924,58.5
+United States,1925,58.5
+United States,1926,57.900002
+United States,1927,59.400002
+United States,1928,58.299999
+United States,1929,58.5
+United States,1930,59.599998
+United States,1931,60.299999
+United States,1932,61
+United States,1933,60.959999
+United States,1934,60.290001
+United States,1935,60.939999
+United States,1936,60.400002
+United States,1937,61.099998
+United States,1938,62.43
+United States,1939,63.119999
+United States,1940,63.279999
+United States,1941,63.84
+United States,1942,64.629997
+United States,1943,64.339996
+United States,1944,65.129997
+United States,1945,65.629997
+United States,1946,66.330002
+United States,1947,66.730003
+United States,1948,67.300003
+United States,1949,67.68
+United States,1950,68.120003
+United States,1951,68.220001
+United States,1952,68.440002
+United States,1953,68.790001
+United States,1954,69.580002
+United States,1955,69.629997
+United States,1956,69.709999
+United States,1957,69.489998
+United States,1958,69.760002
+United States,1959,69.980003
+United States,1960,69.910004
+United States,1961,70.32
+United States,1962,70.209999
+United States,1963,70.040001
+United States,1964,70.330002
+United States,1965,70.410004
+United States,1966,70.43
+United States,1967,70.760002
+United States,1968,70.419998
+United States,1969,70.660004
+United States,1970,70.919998
+United States,1971,71.239998
+United States,1972,71.339996
+United States,1973,71.540001
+United States,1974,72.080002
+United States,1975,72.68
+United States,1976,72.989998
+United States,1977,73.379997
+United States,1978,73.580002
+United States,1979,74.029999
+United States,1980,73.93
+United States,1981,74.360001
+United States,1982,74.650002
+United States,1983,74.709999
+United States,1984,74.809998
+United States,1985,74.790001
+United States,1986,74.870003
+United States,1987,75.010002
+United States,1988,75.019997
+United States,1989,75.099998
+United States,1990,75.449997
+United States,1991,75.599998
+United States,1992,75.75
+United States,1993,75.769997
+United States,1994,75.830002
+United States,1995,75.959999
+United States,1996,76.290001
+United States,1997,76.669998
+United States,1998,76.800003
+United States,1999,76.839996
+United States,2000,76.959999
+United States,2001,77.040001
+United States,2002,77.169998
+United States,2003,77.32
+United States,2004,77.540001
+United States,2005,77.699997
+United States,2006,77.949997
+United States,2007,78.169998
+United States,2008,78.370003
+United States,2009,78.599998
+United States,2010,78.779999
+United States,2011,78.870003
+United States,2012,78.940002
+United States,2013,78.959999
+United States,2014,78.940002
+United States,2015,78.870003
+United States,2016,78.860001
